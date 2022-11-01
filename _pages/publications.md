@@ -4,6 +4,8 @@ title: #"Publications"
 permalink: /publications/
 author_profile: true
 ---
+* Danil Provodin, Pratik Gajane, Mykola Pechenizkiy, Maurits Kaptein. <i>The Impact of Batch Learning in Stochastic Linear Bandits</i>. In the proceedings of the 22nd International Conference on Data Mining (ICDM), 2022.
+ 
 * Filipo Studzinski Perotto, Sattar Vakili, Pratik Gajane, Yaser Faghan, and Mathieu Bourgais. <i>[Gambler Bandits and the Regret of Being Ruined](https://dl.acm.org/doi/10.5555/3463952.3464194).</i> In the proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS), 2021.
 
 * Ronald Ortner, Pratik Gajane and Peter Auer. <i>[Variational Regret Bounds for Reinforcement Learning](https://proceedings.mlr.press/v115/ortner20a.html).</i> In the proceedings of the 35th Conference on Uncertainty in Artificial Intelligence (UAI), 2019.

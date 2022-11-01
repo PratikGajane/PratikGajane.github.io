@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* Carolin Lawrence, Pratik Gajane and Stefan Riezler. <i>[Counterfactual Learning for Machine Translation: Degeneracies and Solutions](https://www.cl.uni-heidelberg.de/~riezler/publications/papers/NIPS2017.pdf)</i>. In the workshop for Causal Inference and Machine Learning for Intelligent Decision Making, 2017.
+* Carolin Lawrence, Pratik Gajane and Stefan Riezler. <i>[Counterfactual Learning for Machine Translation: Degeneracies and Solutions](https://www.cl.uni-heidelberg.de/~riezler/publications/papers/NIPS2017.pdf)</i>. In the workshop for Causal Inference and Machine Learning for Intelligent Decision Making, 2017. ([Poster](https://carolinlawrence.github.io/posters/17NIPS_WITWN.pdf))
 
 * Pratik Gajane, Emilie Kaufmann and Tanguy Urvoy. <i>[Corrupt bandits](https://ewrl.files.wordpress.com/2016/11/ewrl13-2016-submission_04.pdf).</i> In the 13th European Workshop on Reinforcement Learning (EWRL), 2016.
 

@@ -4,6 +4,8 @@ title: #"Publications"
 permalink: /publications/
 author_profile: true
 ---
+* Ronald Ortner, Pratik Gajane and Peter Auer. <i>[Variational Regret Bounds for Reinforcement Learning](https://proceedings.mlr.press/v115/ortner20a.html).</i> In the proceedings of the 35th Conference on Uncertainty in Artificial Intelligence (UAI), 2019.
+
 * Peter Auer, Pratik Gajane and Ronald Ortner. <i>[Adaptively Tracking the Best Bandit Arm with an Unknown Number of Distribution Changes](https://proceedings.mlr.press/v99/auer19a.html).</i> In the proceedings of the 32nd Annual Conference on Learning Theory (COLT), 2019.
  
 * Pratik Gajane, Ronald Ortner and Peter Auer. <i>[A Sliding-Window Approach for Reinforcement Learning in MDPs with Arbitrarily Changing Rewards and Transitions](https://drive.google.com/file/d/1FHAgRpUPcO4YBjg3meK47d3VZozIwIx5/view).</i> In the 2nd workshop for Lifelong Learning: A Reinforcement Learning Approach (LLARLA), 2018 (<p style="color :gold; "> won the best paper award</p>).

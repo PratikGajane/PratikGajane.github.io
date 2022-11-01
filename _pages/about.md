@@ -17,3 +17,4 @@ In reinforcement learning, I seek to understand how an intelligent agent “lear
 The second important thread in my research is fairness in machine learning(fair-ML) which deals with removing bias from the decisions made by the ML algorithms. Here, I am generally interested in posing Fair-ML as policy learning in sequential setting while considering various fairness measures.
 
 <font size = 16> News </font>
+* We are applying for NWO Open Technology Programme 2022. Watch this space for job announcements! 

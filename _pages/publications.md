@@ -4,6 +4,8 @@ title: #"Publications"
 permalink: /publications/
 author_profile: true
 ---
+* Pratik Gajane, Ronald Ortner and Peter Auer. <i>[A Sliding-Window Approach for Reinforcement Learning in MDPs with Arbitrarily Changing Rewards and Transitions](https://drive.google.com/file/d/1FHAgRpUPcO4YBjg3meK47d3VZozIwIx5/view).</i> In the 2nd workshop for Lifelong Learning: A Reinforcement Learning Approach (LLARLA), 2018 (<color = gold>won the best paper award</color>).
+* 
 * Pratik Gajane and Mykola Pechenizkiy. <i>[On Formalizing Fairness in Prediction with Machine Learning](https://www.fatml.org/media/documents/formalizing_fairness_in_prediction_with_ml.pdf).</i> In the 5th Workshop on Fairness, Accountability, and Transparency in Machine Learning (FAT/ML), 2018.
 
 * Pratik Gajane, Emilie Kaufmann and Tanguy Urvoy. <i>[Corrupt Bandits for Preserving Local Privacy](https://proceedings.mlr.press/v83/gajane18a.html).</i> In the proceedings of the 29th International Conference on Algorithmic Learning Theory (ALT), 2018. ([Presentation slides](https://pratikgajane.files.wordpress.com/2018/07/alt-2018-talk.pdf))

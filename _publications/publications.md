@@ -1,5 +1,5 @@
 ---
-title:  "Publications"
+title:  #"Publications"
 layout: archive
 permalink: /pubs/
 author_profile: true

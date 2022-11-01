@@ -23,4 +23,4 @@ The second important thread in my research is fairness in machine learning(fair-
 * In the 1st quartile of the aceadmic year 2022-2023, I am teaching a course on reinforcement learning.  
 * New paper about [batch learning in stochastic linear bandits](https://arxiv.org/abs/2202.06657) to appear at [ICDM 2022](https://icdm22.cse.usf.edu/).
 * Working on an extensive survey (and a tutorial) on fairness-aware reinforcement learning. See the [intitial version here](https://arxiv.org/abs/2205.10032).
-* In the 4th quartile of the aceadmic year 2022-2023, I am supervising and evaluating 10 student course projects on reinforcement learning as part of [Data Intelligence Challenge](https://educationguide.tue.nl/programs/bachelor-college/use-learning-trajectory/data-challenges/) 
+* In the 4th quartile of the aceadmic year 2022-2023, I am supervising and evaluating 10 student course projects on reinforcement learning as part of [2AMC15 Data Intelligence Challenge](https://educationguide.tue.nl/programs/bachelor-college/use-learning-trajectory/data-challenges/) 

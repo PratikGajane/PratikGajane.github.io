@@ -18,3 +18,4 @@ The second important thread in my research is fairness in machine learning(fair-
 
 <font size = 16> News </font>
 * We are applying for NWO Open Technology Programme 2022. Watch this space for job announcements! 
+* New paper about [posterior sampling for constrained reinforcement learning](https://arxiv.org/abs/2209.03596v1) to be published soon

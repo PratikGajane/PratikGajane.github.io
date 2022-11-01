@@ -10,7 +10,10 @@ redirect_from:
 
 Welcome to my professional webpage.
 
-I am a postdoctoral fellow in the department of [Mathematics and Computer Science](https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science/) at the [Eindhoven University of Technology](https://www.tue.nl/en/). My research interests span across reinforcement learning and fairness in machine learning.
+I am a postdoctoral fellow in the department of [Mathematics and Computer Science](https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science/) at the [Eindhoven University of Technology](https://www.tue.nl/en/). I obtained my PhD in the topic of [sequential learning with partial feedback](https://lilloa.univ-lille.fr/handle/20.500.12210/23555?locale-attribute=en) at [INRIA SequeL](https://team.inria.fr/sequel/) and [Université de Lille](https://www.univ-lille.fr/) under the supervision of [Prof. Philippe Preux](https://philippe-preux.github.io/) and Dr. Tanguy Urvoy. I received my master’s degree in Computer Science & Engineering from [Indian Institute of Technology Madras](https://www.iitm.ac.in/) under the supervison of [Prof. Balaraman Ravindran](https://rbcdsai.iitm.ac.in/people/b-ravindran/).
+
+
+My research interests span across reinforcement learning and fairness in machine learning.
 
 In reinforcement learning, I seek to understand how an intelligent agent “learns” from its interactions with the environment. Generally, I am interested in devising machine learning algorithms with strong mathematical foundations which can work with incomplete forms of feedback often encountered in real-life scenarios. Which algorithms can be used to learn from the various kinds of feedback that the environment can provide the agent? Can we model the algorithms to exploit the structure of the game so that they are able to learn in a better way? What are the performance guarantees of these algorithms? 
 

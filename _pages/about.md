@@ -16,7 +16,7 @@ In reinforcement learning, I seek to understand how an intelligent agent “lear
 
 The second important thread in my research is fairness in machine learning(fair-ML) which deals with removing bias from the decisions made by the ML algorithms. Here, I am generally interested in posing Fair-ML as policy learning in sequential setting while considering various fairness measures.
 
-<font size = 10> News </font>
+<font size = 8> News </font>
 * We are applying for a NWO grant (Open Technology Programme 2022). Watch this space for job announcements! 
 * New paper about [posterior sampling for constrained reinforcement learning](https://arxiv.org/abs/2209.03596v1).
 * In the academic year 2022-2023, I am going to supervise 3 MSc students and a group of BSc students from the [Honors Academy](https://www.tue.nl/en/education/bachelor-college/honors-academy/) in addition to the 2 PhD students I am currently supervising.

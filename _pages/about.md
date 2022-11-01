@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pratik Gajane's professional webpage"
+title: #"Pratik Gajane's professional webpage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

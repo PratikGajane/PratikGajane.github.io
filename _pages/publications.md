@@ -6,7 +6,7 @@ author_profile: true
 ---
 * Danil Provodin, Pratik Gajane, Mykola Pechenizkiy, Maurits Kaptein.<i>[An Empirical Evaluation of Posterior Sampling for Constrained Reinforcement Learning](https://arxiv.org/abs/2209.03596).</i> In the Reinforcement Learning for Real Life Workshop at NeurIPS, 2022
 
-* Danil Provodin, Pratik Gajane, Mykola Pechenizkiy, Maurits Kaptein. <i>The Impact of Batch Learning in Stochastic Linear Bandits</i>. In the proceedings of the 22nd International Conference on Data Mining (ICDM), 2022.
+* Danil Provodin, Pratik Gajane, Mykola Pechenizkiy, Maurits Kaptein. <i>[The Impact of Batch Learning in Stochastic Linear Bandits](https://arxiv.org/abs/2202.06657).</i> In the proceedings of the 22nd International Conference on Data Mining (ICDM), 2022.
  
 * Filipo Studzinski Perotto, Sattar Vakili, Pratik Gajane, Yaser Faghan, and Mathieu Bourgais. <i>[Gambler Bandits and the Regret of Being Ruined](https://dl.acm.org/doi/10.5555/3463952.3464194).</i> In the proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS), 2021.
 

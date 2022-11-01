@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD at INRIA Lille, team SequeL, Université Lille 3 & Orange labs, 2017
+* Masters in Computer Science at Indian Institute of Technology Madras, 2014
+* Bachelor of Engineering in Computer Science at University of Pune, 2009
 
 Work experience
 ======

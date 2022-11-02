@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pratik Gajane"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Pratik Gajane"
 description              : &description "personal description"

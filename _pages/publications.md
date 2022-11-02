@@ -10,21 +10,21 @@ author_profile: true
  
 * Filipo Studzinski Perotto, Sattar Vakili, Pratik Gajane, Yaser Faghan, and Mathieu Bourgais. <i>[Gambler Bandits and the Regret of Being Ruined](https://dl.acm.org/doi/10.5555/3463952.3464194).</i> In the proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS), 2021.
 
-* Ronald Ortner, Pratik Gajane and Peter Auer. <i>[Variational Regret Bounds for Reinforcement Learning](https://proceedings.mlr.press/v115/ortner20a.html).</i> In the proceedings of the 35th Conference on Uncertainty in Artificial Intelligence (UAI), 2019.
+* Ronald Ortner, Pratik Gajane and Peter Auer. <i>[Variational Regret Bounds for Reinforcement Learning](https://proceedings.mlr.press/v115/ortner20a.html).</i> In the proceedings of the 35th Conference on Uncertainty in Artificial Intelligence (UAI), 2019. ([Poster](/files/UAI_2019_poster.pdf)).
 
 *  Peter Auer, Yifang Chen, Pratik Gajane, Chung-Wei Lee, Haipeng Luo, Ronald Ortner, Chen-Yu Wei. <i>[Achieving Optimal Dynamic Regret for Non-stationary Bandits without Prior Information](https://proceedings.mlr.press/v99/auer19b.html).</i> In the proceedings of the 32nd Annual Conference on Learning Theory (COLT), 2019.
 
 * Peter Auer, Pratik Gajane and Ronald Ortner. <i>[Adaptively Tracking the Best Bandit Arm with an Unknown Number of Distribution Changes](https://proceedings.mlr.press/v99/auer19a.html).</i> In the proceedings of the 32nd Annual Conference on Learning Theory (COLT), 2019.
  
-* Pratik Gajane, Ronald Ortner and Peter Auer. <i>[A Sliding-Window Approach for Reinforcement Learning in MDPs with Arbitrarily Changing Rewards and Transitions](https://drive.google.com/file/d/1FHAgRpUPcO4YBjg3meK47d3VZozIwIx5/view).</i> In the 2nd workshop for Lifelong Learning: A Reinforcement Learning Approach (LLARLA), 2018 (<span style="color:gold">won the best paper award</span>).
+* Pratik Gajane, Ronald Ortner and Peter Auer. <i>[A Sliding-Window Approach for Reinforcement Learning in MDPs with Arbitrarily Changing Rewards and Transitions](https://drive.google.com/file/d/1FHAgRpUPcO4YBjg3meK47d3VZozIwIx5/view).</i> In the 2nd workshop for Lifelong Learning: A Reinforcement Learning Approach (LLARLA), 2018 (<span style="color:gold">won the best paper award</span>). ([Poster](/files/LLARLA_2018_poster.pdf)).
 
-* Pratik Gajane and Mykola Pechenizkiy. <i>[On Formalizing Fairness in Prediction with Machine Learning](https://www.fatml.org/media/documents/formalizing_fairness_in_prediction_with_ml.pdf).</i> In the 5th Workshop on Fairness, Accountability, and Transparency in Machine Learning (FAT/ML), 2018.
+* Pratik Gajane and Mykola Pechenizkiy. <i>[On Formalizing Fairness in Prediction with Machine Learning](https://www.fatml.org/media/documents/formalizing_fairness_in_prediction_with_ml.pdf).</i> In the 5th Workshop on Fairness, Accountability, and Transparency in Machine Learning (FAT/ML), 2018. ([Poster](/files/FATML_2018_poster.pdf)).
 
-* Pratik Gajane, Emilie Kaufmann and Tanguy Urvoy. <i>[Corrupt Bandits for Preserving Local Privacy](https://proceedings.mlr.press/v83/gajane18a.html).</i> In the proceedings of the 29th International Conference on Algorithmic Learning Theory (ALT), 2018. ([Presentation slides](/files/alt-2018-talk.pdf))
+* Pratik Gajane, Emilie Kaufmann and Tanguy Urvoy. <i>[Corrupt Bandits for Preserving Local Privacy](https://proceedings.mlr.press/v83/gajane18a.html).</i> In the proceedings of the 29th International Conference on Algorithmic Learning Theory (ALT), 2018. 
 
 * Carolin Lawrence, Pratik Gajane and Stefan Riezler. <i>[Counterfactual Learning for Machine Translation: Degeneracies and Solutions](https://www.cl.uni-heidelberg.de/~riezler/publications/papers/NIPS2017.pdf)</i>. In the workshop for Causal Inference and Machine Learning for Intelligent Decision Making, 2017. ([Poster](/files/17NIPS_WITWN.pdf)).
 
-* Pratik Gajane, Emilie Kaufmann and Tanguy Urvoy. <i>[Corrupt bandits](https://ewrl.files.wordpress.com/2016/11/ewrl13-2016-submission_04.pdf).</i> In the 13th European Workshop on Reinforcement Learning (EWRL), 2016.
+* Pratik Gajane, Emilie Kaufmann and Tanguy Urvoy. <i>[Corrupt bandits](https://ewrl.files.wordpress.com/2016/11/ewrl13-2016-submission_04.pdf).</i> In the 13th European Workshop on Reinforcement Learning (EWRL), 2016. ([Poster](/files/EWRL_2016_poster.pdf)).
 
 * Pratik Gajane, Tanguy Urvoy and Fabrice Clerot. <i>[A Relative Exponential Weighing Algorithm for Adversarial Utility-based Dueling Bandits](https://proceedings.mlr.press/v37/gajane15).</i> In the proceedings of the 32nd International Conference on Machine Learning (ICML), 2015.
 

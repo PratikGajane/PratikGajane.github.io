@@ -89,33 +89,11 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=L_5GdNcAAAAJ"
   semanticscholar  : "https://www.semanticscholar.org/author/Pratik-Gajane/3144996"
   dblp             : "https://dblp.org/pid/164/7305.html"
-  email            :
+  email            :  "pratik.gajane@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : #"academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : #"replacethistwitterhandle"
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
 
 # Reading Files
 include:

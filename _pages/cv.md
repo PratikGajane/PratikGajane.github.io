@@ -20,3 +20,4 @@ redirect_from:
 * 2021-present: Postdoctoral fellow in the department of Mathematics and Computer Science at the [Eindhoven University of Technology](https://www.tue.nl/en/). Working with Prof. [Mykola Pechenizkiy](https://www.tue.nl/en/research/researchers/mykola-pechenizkiy/).
 * 2018-2021: Postdoctoral fellow in the department of Computer Science at the [University of Leoben](https://www.unileoben.ac.at/). Working with [Prof. Peter Auer](https://infotech.unileoben.ac.at/lehrstuhl/peter-auer/) and [Prof. Ronald Ortner](https://ortner.unileoben.ac.at/).
   
+Here's my detailed [CV](/files/CV.pdf).

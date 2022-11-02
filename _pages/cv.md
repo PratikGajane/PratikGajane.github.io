@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: #"CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,43 +17,6 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-present: Postdoctoral fellow in the department of Mathematics and Computer Science at the [Eindhoven University of Technology](https://www.tue.nl/en/). Working with Prof. [Mykola Pechenizkiy](https://www.tue.nl/en/research/researchers/mykola-pechenizkiy/).
+* 2018-2021: Postdoctoral fellow in the department of Computer Science at the [University of Leoben](https://www.unileoben.ac.at/). Working with [Prof. Peter Auer](https://infotech.unileoben.ac.at/lehrstuhl/peter-auer/) and [Prof. Ronald Ortner](https://ortner.unileoben.ac.at/).
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

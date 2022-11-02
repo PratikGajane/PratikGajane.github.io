@@ -5,8 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* 2022-2023 Q1: 2AMM20(RTDM) Reinforcement Learning track
+* 2022-2023 Q1: DBM140 Embodying Intelligent Behavior in Social Context
+* 2021-2022 Q4: 2AMC15 Data Intelligence Challenge (Supervision and Assessment)
+* 2013-2014 S2: Data Mining
+* 2013-2014 S1: Introduction to Machine Learning
+* 2012–2013 S2: Computational Engineering
+* 2012–2013 S1: Introduction to Research

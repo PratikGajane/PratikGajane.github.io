@@ -4,6 +4,14 @@ title: #"Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<font size = 5> Preprints </font>
+
+* Pratik Gajane, Akrati Saxena, Maryam Tavakol, George Fletcher, Mykola Pechenizkiy. <i>[Survey on Fair Reinforcement Learning: Theory and Practice](https://arxiv.org/abs/2205.10032).</i>
+* Pratik Gajane, Ronald Ortner, Peter Auer, Csaba Szepesvari. <i>[Autonomous exploration for navigating in non-stationary CMPs](https://arxiv.org/abs/1910.08446v1).</i>
+
+<font size = 5> Publications </font>
+
 * Danil Provodin, Pratik Gajane, Mykola Pechenizkiy, Maurits Kaptein. <i>[An Empirical Evaluation of Posterior Sampling for Constrained Reinforcement Learning](https://arxiv.org/abs/2209.03596).</i> In the Reinforcement Learning for Real Life Workshop at NeurIPS, 2022
 
 * Danil Provodin, Pratik Gajane, Mykola Pechenizkiy, Maurits Kaptein. <i>[The Impact of Batch Learning in Stochastic Linear Bandits](https://arxiv.org/abs/2202.06657).</i> In the proceedings of the 22nd International Conference on Data Mining (ICDM), 2022.

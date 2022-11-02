@@ -20,6 +20,8 @@ author_profile: true
 
 * Pratik Gajane and Mykola Pechenizkiy. <i>[On Formalizing Fairness in Prediction with Machine Learning](https://www.fatml.org/media/documents/formalizing_fairness_in_prediction_with_ml.pdf).</i> In the 5th Workshop on Fairness, Accountability, and Transparency in Machine Learning (FAT/ML), 2018. ([Poster](/files/FATML_2018_poster.pdf)).
 
+* Peter Auer, Pratik Gajane and Ronald Ortner. <i>[Adaptively Tracking the Best Bandit Arm with an Unknown Number of Distribution Changes](https://ewrl.files.wordpress.com/2018/09/ewrl_14_2018_paper_28.pdf).</i> In the 14th European Workshop on Reinforcement Learning (EWRL), 2018. ([Poster](/files/EWRL_2018_poster.pdf)).
+
 * Pratik Gajane, Emilie Kaufmann and Tanguy Urvoy. <i>[Corrupt Bandits for Preserving Local Privacy](https://proceedings.mlr.press/v83/gajane18a.html).</i> In the proceedings of the 29th International Conference on Algorithmic Learning Theory (ALT), 2018. 
 
 * Carolin Lawrence, Pratik Gajane and Stefan Riezler. <i>[Counterfactual Learning for Machine Translation: Degeneracies and Solutions](https://www.cl.uni-heidelberg.de/~riezler/publications/papers/NIPS2017.pdf)</i>. In the workshop for Causal Inference and Machine Learning for Intelligent Decision Making, 2017. ([Poster](/files/17NIPS_WITWN.pdf)).

@@ -12,7 +12,7 @@ author_profile: true
 
 * Ronald Ortner, Pratik Gajane and Peter Auer. <i>[Variational Regret Bounds for Reinforcement Learning](https://proceedings.mlr.press/v115/ortner20a.html).</i> In the proceedings of the 35th Conference on Uncertainty in Artificial Intelligence (UAI), 2019.
 
-*  Peter Auer, Yifang Chen, Pratik Gajane, Chung-Wei Lee, Haipeng Luo, Ronald Ortner, Chen-Yu Wei. <i>Achieving Optimal Dynamic Regret for Non-stationary Bandits without Prior Information(https://proceedings.mlr.press/v99/auer19b.html).</i> In the proceedings of the 32nd Annual Conference on Learning Theory (COLT), 2019.
+*  Peter Auer, Yifang Chen, Pratik Gajane, Chung-Wei Lee, Haipeng Luo, Ronald Ortner, Chen-Yu Wei. <i>[Achieving Optimal Dynamic Regret for Non-stationary Bandits without Prior Information](https://proceedings.mlr.press/v99/auer19b.html).</i> In the proceedings of the 32nd Annual Conference on Learning Theory (COLT), 2019.
 
 * Peter Auer, Pratik Gajane and Ronald Ortner. <i>[Adaptively Tracking the Best Bandit Arm with an Unknown Number of Distribution Changes](https://proceedings.mlr.press/v99/auer19a.html).</i> In the proceedings of the 32nd Annual Conference on Learning Theory (COLT), 2019.
  

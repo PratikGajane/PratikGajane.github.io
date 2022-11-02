@@ -17,7 +17,7 @@ author_profile: true
 * Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. <i>[The Impact of Batch Learning in Stochastic Linear Bandits](https://arxiv.org/abs/2202.06657).</i> In the proceedings of the 22nd International Conference on Data Mining (ICDM), 2022.
 
 * Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. <i>[The Impact of Batch Learning in Stochastic
-Bandits](https://arxiv.org/abs/2111.02071).</i>, in the Workshop on Ecological Theory of Reinforcement Learning at NeurIPS, 2021.
+Bandits](https://arxiv.org/abs/2111.02071).</i> In the Workshop on Ecological Theory of Reinforcement Learning at NeurIPS, 2021.
 
 * Filipo Studzinski Perotto, Sattar Vakili, Pratik Gajane, Yaser Faghan and Mathieu Bourgais. <i>[Gambler Bandits and the Regret of Being Ruined](https://dl.acm.org/doi/10.5555/3463952.3464194).</i> In the proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS), 2021.
 

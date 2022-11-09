@@ -14,9 +14,9 @@ I am a postdoctoral fellow in the department of [Mathematics and Computer Scienc
 
 My [Erdös number](https://www.oakland.edu/enp/) is 3 thanks to Peter Auer (-> Pal Revesz -> Paul Erdös).
 
-My research interests span across the theory of sequential decision making and fairness in machine learning.
+My research interests span across sequential decision making and fairness in machine learning.
 
-In the theory of sequential decision making, I seek to understand how an intelligent agent “learns” from its interactions with the environment. Generally, I am interested in devising machine learning algorithms with strong mathematical foundations which can work with incomplete forms of feedback often encountered in real-life scenarios. 
+In sequential decision making, I seek to understand how an intelligent agent “learns” from its interactions with the environment. Generally, I am interested in devising machine learning algorithms with strong mathematical foundations which can work with incomplete forms of feedback often encountered in real-life scenarios. 
 
 The second important thread in my research is fairness in machine learning(fair-ML) which deals with removing bias from the decisions made by the ML algorithms. Here, I am generally interested in posing Fair-ML as policy learning in sequential setting while considering various fairness measures.
 

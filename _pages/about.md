@@ -21,6 +21,8 @@ In sequential decision making, I seek to understand how an intelligent agent “
 Secondly, I am also interested in interdisciplinary research with the aim of incorporating human aspects like fairness and privacy in machine learning.
 
 <font size = 6> News </font>
+* I completed a pedagogical course on _Facilitating Learning_. 
+* I am taking pedagogical courses to obtain [University Teaching Qualification (UTQ/BKO)](https://www.universiteitenvannederland.nl/files/documenten/Domeinen/Onderwijs/WUO%20Rapport%20BKO%20NL%202016.pdf) which is regarded as a proof of the competence of teaching in academic settings in the Netherlands
 * We are applying for a NWO grant (Open Technology Programme 2022). Watch this space for job announcements! 
 * New paper about [posterior sampling for constrained reinforcement learning](https://arxiv.org/abs/2209.03596v1).
 * In the academic year 2022-2023, I am going to supervise 3 MSc students and a group of BSc students from the [Honors Academy](https://www.tue.nl/en/education/bachelor-college/honors-academy/) in addition to the 2 PhD students I am currently supervising.

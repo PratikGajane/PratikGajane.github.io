@@ -5,17 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
-| Course Name                                       | University                    | Level  |  Role                | #Students   |
-| ------------------------------------------------  | --------------------------    | -------|----------------------|-------------|
-| Reinforcement Learning                            | Eindhoven Univ. of Technology |   MSc  | Responsible Lecturer |    35       |
-| Embodying Intelligent Behavior in Social Context  | Eindhoven Univ. of Technology |   MSc  | Co-lecturer          |    41       |
-
-
-* 2022-2023 Q1: 2AMM20(RTDM) Reinforcement Learning track (see all the lecture presentations [here](/files/2AMM20-Lectures)).
-* 2022-2023 Q1: DBM140 Embodying Intelligent Behavior in Social Context.
-* 2021-2022 Q4: 2AMC15 Data Intelligence Challenge (Supervision and Assessment).
-* 2013-2014 S2: Data Mining (teaching assistant).
-* 2013-2014 S1: Introduction to Machine Learning (teaching assistant).
-* 2012–2013 S2: Computational Engineering (teaching assistant).
-* 2012–2013 S1: Introduction to Research (teaching assistant).
+  
+| Course Name                                       | University                    | Level      |  Role                     | #Students |
+|  :---:                                            |  :---:                        |  :---:     | :---:                     | :---:     |
+| Reinforcement Learning                            | Eindhoven Univ. of Technology | Master's   | Responsible Lecturer      |    35     |
+| Embodying Intelligent Behavior in Social Context  | Eindhoven Univ. of Technology | Master's   | Co-lecturer               |    41     |
+| Data Intelligence Challenge                       |Eindhoven Univ. of Technology  | Master's   | Supervision and Assessment| 50        |
+| Data Mining                                       | IIT Madras                    | Bachelor's | Teaching Assistant        | ~20       |
+| Introduction to Machine Learning                  | IIT Madras                    | Bachelor's | Teaching Assistant        | ~60       |
+| Computational Engineering                         | IIT Madras                    | Bachelor's | Teaching Assistant        | ~50       |
+| Introduction to Research                          | IIT Madras                    | Bachelor's | Teaching Assistant        | ~100       |

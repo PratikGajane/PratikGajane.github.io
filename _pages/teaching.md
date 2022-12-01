@@ -15,3 +15,10 @@ author_profile: true
 | Introduction to Machine Learning                  | Bachelor's | Teaching Assistant         | ~60       |  IIT Madras                   |
 | Computational Engineering                         | Bachelor's | Teaching Assistant         | ~50       | IIT Madras                    |
 | Introduction to Research                          | Bachelor's | Teaching Assistant         | ~100      | IIT Madras                    |
+
+
+Additionally, I have completed a number of pedagogical courses e.g.,
+Teaching Skills (UTQ/BKO Module) 
+Designing Courses & Projects (UTQ/BKO Module) 
+Facilitating Learning (UTQ/BKO Module) 
+Supervision of PhD Students 

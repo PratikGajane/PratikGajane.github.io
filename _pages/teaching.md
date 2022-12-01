@@ -18,7 +18,9 @@ author_profile: true
 
 
 Additionally, I have completed a number of pedagogical courses e.g.,
-Teaching Skills (UTQ/BKO Module) 
-Designing Courses & Projects (UTQ/BKO Module) 
-Facilitating Learning (UTQ/BKO Module) 
-Supervision of PhD Students 
+* Teaching Skills [(UTQ/BKO Module)](https://www.universiteitenvannederland.nl/files/documenten/Domeinen/Onderwijs/WUO%20Rapport%20BKO%20NL%202016.pdf) 
+* Designing Courses & Projects [(UTQ/BKO Module)](https://www.universiteitenvannederland.nl/files/documenten/Domeinen/Onderwijs/WUO%20Rapport%20BKO%20NL%202016.pdf) 
+* Facilitating Learning [(UTQ/BKO Module)](https://www.universiteitenvannederland.nl/files/documenten/Domeinen/Onderwijs/WUO%20Rapport%20BKO%20NL%202016.pdf) 
+* Supervision of PhD Students   
+
+

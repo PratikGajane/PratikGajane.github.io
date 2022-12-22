@@ -21,12 +21,16 @@ In sequential decision making, I seek to understand how an intelligent agent “
 Secondly, I am also interested in interdisciplinary research with the aim of incorporating human aspects like fairness and privacy in machine learning.
 
 <font size = 6> News </font>
-* I completed a pedagogical course on _Facilitating Learning_. 
-* I am taking pedagogical courses to obtain [University Teaching Qualification (UTQ/BKO)](https://www.universiteitenvannederland.nl/files/documenten/Domeinen/Onderwijs/WUO%20Rapport%20BKO%20NL%202016.pdf) which is regarded as a proof of the competence of teaching in academic settings in the Netherlands
-* We are applying for a NWO grant (Open Technology Programme 2022). Watch this space for job announcements! 
-* New paper about [posterior sampling for constrained reinforcement learning](https://arxiv.org/abs/2209.03596v1).
-* In the academic year 2022-2023, I am going to supervise 3 MSc students and a group of BSc students from the [Honors Academy](https://www.tue.nl/en/education/bachelor-college/honors-academy/) in addition to the 2 PhD students I am currently supervising.
-* In the 1st quartile of the aceadmic year 2022-2023, I am teaching a course on reinforcement learning.  
+* I completed a work on proving Local Differential Privacy for Sequential Decision Making in a Changing Environment. Currently under review (Dec 2022).
+* Our paper on posterior sampling for constrained reinforcement learning accepted at the Reinforcement Learning for Real Life Workshop at NeurIPS,
+2022 (Dec 2022).
+* Our paper on titled on batch-learning in stochastic linear bandits publised at International Conference on Data Mining (ICDM), 2022 (Dec 2022).
+* I completed a pedagogical course on _Facilitating Learning_ (Nov 2022).
+* I am taking pedagogical courses to obtain [University Teaching Qualification (UTQ/BKO)](https://www.universiteitenvannederland.nl/files/documenten/Domeinen/Onderwijs/WUO%20Rapport%20BKO%20NL%202016.pdf) which is regarded as a proof of the competence of teaching in academic settings in the Netherlands (Nov 2022).
+* We are applying for a NWO grant (Open Technology Programme 2022). Watch this space for job announcements! (Oct 2022)
+* New paper about [posterior sampling for constrained reinforcement learning](https://arxiv.org/abs/2209.03596v1) (Sept 2022).
+* In the academic year 2022-2023, I am going to supervise 3 MSc students and a group of BSc students from the [Honors Academy](https://www.tue.nl/en/education/bachelor-college/honors-academy/) in addition to the 2 PhD students I am currently supervising (Sept 2022).
+* In the 1st quartile of the aceadmic year 2022-2023, I am teaching a course on reinforcement learning (Sept 2022).  
 * In the 1st quartile of the aceadmic year 2022-2023, I am co-teaching a course on embodying intelligent behavior in social context.
 * New paper about [batch learning in stochastic linear bandits](https://arxiv.org/abs/2202.06657) to appear at [ICDM 2022](https://icdm22.cse.usf.edu/).
 * Working on an extensive survey (and a tutorial) on fairness-aware reinforcement learning. See the [intitial version here](https://arxiv.org/abs/2205.10032).

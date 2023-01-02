@@ -22,8 +22,8 @@ Secondly, I am also interested in interdisciplinary research with the aim of inc
 
 <font size = 6> News </font>
 * My paper on providing local differential privacy for sequential decision making in a changing environment accepted at AAAI Privacy
-Preserving Artificial Intelligence (PPAI), 2023 <span style="color:lightgray"> (Jan 2023) </span>.
-* I am in the thesis committee for master’s thesis defense on the topic of multivariate distributional regression techniques at the Eindhoven University of Technology <span style="color:lightgray"> (Jan 2023) </span>.
+Preserving Artificial Intelligence (PPAI), 2023 <span style="color:lightgray"> (Jan 2023)</span>.
+* I am in the thesis committee for master’s thesis defense on the topic of multivariate distributional regression techniques at the Eindhoven University of Technology <span style="color:lightgray"> (Jan 2023)</span>.
 * Our paper on posterior sampling for constrained reinforcement learning accepted at the Reinforcement Learning for Real Life Workshop at NeurIPS,
 2022 <span style="color:lightgray"> (Dec 2022)</span>.
 * Our paper on titled on batch-learning in stochastic linear bandits publised at International Conference on Data Mining (ICDM), 2022 <span style="color:lightgray">(Dec 2022)</span>.

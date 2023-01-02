@@ -21,7 +21,8 @@ In sequential decision making, I seek to understand how an intelligent agent “
 Secondly, I am also interested in interdisciplinary research with the aim of incorporating human aspects like fairness and privacy in machine learning.
 
 <font size = 6> News </font>
-* I completed a work on providing local differential privacy for sequential decision making in a changing environment. Currently under review (Dec 2022).
+* My paper on providing local differential privacy for sequential decision making in a changing environment accepted at AAAI Privacy
+Preserving Artificial Intelligence (PPAI), 2023. (Jan 2023)
 * Our paper on posterior sampling for constrained reinforcement learning accepted at the Reinforcement Learning for Real Life Workshop at NeurIPS,
 2022 (Dec 2022).
 * Our paper on titled on batch-learning in stochastic linear bandits publised at International Conference on Data Mining (ICDM), 2022 (Dec 2022).

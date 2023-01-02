@@ -22,16 +22,18 @@ Secondly, I am also interested in interdisciplinary research with the aim of inc
 
 <font size = 6> News </font>
 * My paper on providing local differential privacy for sequential decision making in a changing environment accepted at AAAI Privacy
-Preserving Artificial Intelligence (PPAI), 2023. (Jan 2023)
+Preserving Artificial Intelligence (PPAI), 2023 <span style="color:lightgray"> (Jan 2023) </span>.
+* I am in the thesis committee for master’s thesis defense on the topic of multivariate distributional regression techniques at the Eindhoven University of Technology <span style="color:lightgray"> (Jan 2023) </span>.
 * Our paper on posterior sampling for constrained reinforcement learning accepted at the Reinforcement Learning for Real Life Workshop at NeurIPS,
-2022 (Dec 2022).
-* Our paper on titled on batch-learning in stochastic linear bandits publised at International Conference on Data Mining (ICDM), 2022 (Dec 2022).
-* I completed a pedagogical course on _Facilitating Learning_ (Nov 2022).
-* I am taking pedagogical courses to obtain [University Teaching Qualification (UTQ/BKO)](https://www.universiteitenvannederland.nl/files/documenten/Domeinen/Onderwijs/WUO%20Rapport%20BKO%20NL%202016.pdf) which is regarded as a proof of the competence of teaching in academic settings in the Netherlands (Nov 2022).
-* We are applying for a NWO grant (Open Technology Programme 2022). Watch this space for job announcements! (Oct 2022)
-* New paper about [posterior sampling for constrained reinforcement learning](https://arxiv.org/abs/2209.03596v1) (Sept 2022).
-* In the academic year 2022-2023, I am going to supervise 3 MSc students and a group of BSc students from the [Honors Academy](https://www.tue.nl/en/education/bachelor-college/honors-academy/) in addition to the 2 PhD students I am currently supervising (Sept 2022).
-* In the 1st quartile of the aceadmic year 2022-2023, I am teaching a course on reinforcement learning (Sept 2022).  
+2022 <span style="color:lightgray"> (Dec 2022)</span>.
+* Our paper on titled on batch-learning in stochastic linear bandits publised at International Conference on Data Mining (ICDM), 2022 <span style="color:lightgray">(Dec 2022)</span>.
+* Our paper on titled on batch-learning in stochastic linear bandits publised at International Conference on Data Mining (ICDM), 2022 <span style="color:lightgray">(Dec 2022)</span>.
+* I completed a pedagogical course on _Facilitating Learning_ <span style="color:lightgray"> (Nov 2022)</span>.
+* I am taking pedagogical courses to obtain [University Teaching Qualification (UTQ/BKO)](https://www.universiteitenvannederland.nl/files/documenten/Domeinen/Onderwijs/WUO%20Rapport%20BKO%20NL%202016.pdf) which is regarded as a proof of the competence of teaching in academic settings in the Netherlands <span style="color:lightgray">(Nov 2022)</span>.
+* We are applying for a NWO grant (Open Technology Programme 2022). Watch this space for job announcements! <span style="color:lightgray">(Oct 2022)</span>.
+* New paper about [posterior sampling for constrained reinforcement learning](https://arxiv.org/abs/2209.03596v1) <span style="color:lightgray">(Sept 2022)</span>.
+* In the academic year 2022-2023, I am going to supervise 3 MSc students and a group of BSc students from the [Honors Academy](https://www.tue.nl/en/education/bachelor-college/honors-academy/) in addition to the 2 PhD students I am currently supervising <span style="color:lightgray">(Sept 2022)</span>.
+* In the 1st quartile of the aceadmic year 2022-2023, I am teaching a course on reinforcement learning <span style="color:lightgray">(Sept 2022)</span>.  
 * In the 1st quartile of the aceadmic year 2022-2023, I am co-teaching a course on embodying intelligent behavior in social context.
 * New paper about [batch learning in stochastic linear bandits](https://arxiv.org/abs/2202.06657) to appear at [ICDM 2022](https://icdm22.cse.usf.edu/).
 * Working on an extensive survey (and a tutorial) on fairness-aware reinforcement learning. See the [intitial version here](https://arxiv.org/abs/2205.10032).

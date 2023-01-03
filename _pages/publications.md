@@ -12,8 +12,8 @@ author_profile: true
 
 <font size = 5> Publications </font>
 
-*  Pratik Gajane. <i>Local Differential Privacy for Sequential Decision Making in a Changing
-Environment.</i> In AAAI Privacy-Preserving Artificial Intelligence (PPAI), 2023.
+*  Pratik Gajane. <i>[Local Differential Privacy for Sequential Decision Making in a Changing
+Environment](https://arxiv.org/abs/2301.00561).</i> In AAAI Privacy-Preserving Artificial Intelligence (PPAI), 2023.
 
 * Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. <i>[An Empirical Evaluation of Posterior Sampling for Constrained Reinforcement Learning](https://arxiv.org/abs/2209.03596).</i> In the Reinforcement Learning for Real Life Workshop at NeurIPS, 2022.
 

@@ -14,7 +14,7 @@ I am a postdoctoral fellow in the department of [Mathematics and Computer Scienc
 
 My [Erdös number](https://www.oakland.edu/enp/) is 3 thanks to Peter Auer (-> Pal Revesz -> Paul Erdös).
 
-My research interests span across sequential decision making and machine learning with ethical consideration such as fairness and privacy.
+My research interests span across sequential decision making and machine learning with ethical considerations such as fairness and privacy.
 
 In sequential decision making, I seek to understand how an intelligent agent “learns” from its interactions with the environment. Generally, I am interested in devising machine learning algorithms with strong mathematical foundations which can work with incomplete forms of feedback often encountered in real-life scenarios. 
 

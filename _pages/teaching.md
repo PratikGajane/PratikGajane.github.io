@@ -8,6 +8,7 @@ author_profile: true
   
 | Course Name                                       | Level      |  Role                      | #Students |  University                   |
 |  :---:                                            |  :---:     | :---:                      | :---:     |  :---:                        |
+| Data Mining                                       | Bachelor's | Co-lecturer                |    140    | Eindhoven Univ. of Technology | 
 | Reinforcement Learning                            | Master's   | Responsible Lecturer       |    35     | Eindhoven Univ. of Technology | 
 | Embodying Intelligent Behavior in Social Context  | Master's   | Co-lecturer                |    41     | Eindhoven Univ. of Technology |
 | Data Intelligence Challenge                       | Master's   | Supervision and Assessment |   50      | Eindhoven Univ. of Technology | 

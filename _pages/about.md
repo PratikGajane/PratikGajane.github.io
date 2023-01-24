@@ -20,7 +20,7 @@ In sequential decision making, I seek to understand how an intelligent agent “
 
 Secondly, I am also interested in interdisciplinary research with the aim of incorporating human aspects like fairness and privacy in machine learning.
 
-<font size = 6> News </font>
+<font size = 8> News </font>
 * Our paper titled -- LEMON: Alternative Sampling for More Faithful Explanation through Local Surrogate Models, accepted at the Symposium on Intelligent Data Analysis (IDA), 2023.
 * My paper on providing local differential privacy for sequential decision making in a changing environment accepted at AAAI Privacy
 Preserving Artificial Intelligence (PPAI), 2023 <span style="color:lightgray"> (Jan 2023)</span>.

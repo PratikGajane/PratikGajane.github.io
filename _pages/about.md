@@ -21,6 +21,7 @@ In sequential decision making, I seek to understand how an intelligent agent “
 Secondly, I am also interested in interdisciplinary research with the aim of incorporating human aspects like fairness and privacy in machine learning.
 
 <font size = 6> News </font>
+* Recently, I have been working on curiosity-driven exploration in sparse-reward deep reinforcement learning with one of my master’s students. Here’s a preliminary version of the work – [arxiv:2302.10825](https://arxiv.org/abs/2302.10825). In this work, we propose a method called I-Go-Explore that combines the intrinsic curiosity module with the Go-Explore framework to address some of the limitations of the state of the art
 * Our paper titled -- LEMON: Alternative Sampling for More Faithful Explanation through Local Surrogate Models, accepted at the Symposium on Intelligent Data Analysis (IDA), 2023.
 * My paper on providing local differential privacy for sequential decision making in a changing environment accepted at AAAI Privacy
 Preserving Artificial Intelligence (PPAI), 2023 <span style="color:lightgray"> (Jan 2023)</span>.

@@ -7,7 +7,7 @@ author_profile: true
 
 <font size = 5> Preprints </font>
 * Rosa van Tuijn, Tianqin Lu, Emma Driesse, Koen Franken, Pratik Gajane and Emilia Barakova. [WeHeart: A Personalized Recommendation Device for Physical Activity Encouragement and  Preventing "Cold Start" in Cardiac Rehabilitation](https://github.com/PratikGajane/PratikGajane.github.io/blob/bfab1d2bf11d4387e4b9cc3c9ad5cab4ebfa85f4/files/WeHeart.pdf). 
-*Jiong Li and Pratik Gajane. [Curiosity-driven Exploration in Sparse-reward Multi-agent Reinforcement Learning](https://arxiv.org/abs/2302.10825).
+* Jiong Li and Pratik Gajane. [Curiosity-driven Exploration in Sparse-reward Multi-agent Reinforcement Learning](https://arxiv.org/abs/2302.10825).
 * Pratik Gajane, Akrati Saxena, Maryam Tavakol, George Fletcher, Mykola Pechenizkiy. [Survey on Fair Reinforcement Learning: Theory and Practice](https://arxiv.org/abs/2205.10032).
 * Pratik Gajane, Ronald Ortner, Peter Auer, Csaba Szepesvari. [Autonomous exploration for navigating in non-stationary CMPs](https://arxiv.org/abs/1910.08446v1).
 

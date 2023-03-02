@@ -14,24 +14,24 @@ author_profile: true
 <font size = 5> Publications </font>
 
 *  Pratik Gajane. [Local Differential Privacy for Sequential Decision Making in a Changing
-Environment](https://arxiv.org/abs/2301.00561).<i>In AAAI Privacy-Preserving Artificial Intelligence (PPAI)</i>, 2023.
+Environment](https://arxiv.org/abs/2301.00561). <i>In AAAI Privacy-Preserving Artificial Intelligence (PPAI)</i>, 2023.
 
-* Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. [An Empirical Evaluation of Posterior Sampling for Constrained Reinforcement Learning](https://arxiv.org/abs/2209.03596).<i> In the Reinforcement Learning for Real Life Workshop at NeurIPS</i> , 2022.
+* Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. [An Empirical Evaluation of Posterior Sampling for Constrained Reinforcement Learning](https://arxiv.org/abs/2209.03596). <i>In the Reinforcement Learning for Real Life Workshop at NeurIPS</i> , 2022.
 
-* Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. <i>[The Impact of Batch Learning in Stochastic Linear Bandits](https://arxiv.org/abs/2202.06657).</i> In the proceedings of the 22nd International Conference on Data Mining (ICDM), 2022.
+* Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. [The Impact of Batch Learning in Stochastic Linear Bandits](https://arxiv.org/abs/2202.06657). <i>In the proceedings of the 22nd International Conference on Data Mining (ICDM)</i>, 2022.
 
-* Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. <i>[The Impact of Batch Learning in Stochastic
-Bandits](https://arxiv.org/abs/2111.02071).</i> In the Workshop on Ecological Theory of Reinforcement Learning at NeurIPS, 2021.
+* Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. [The Impact of Batch Learning in Stochastic
+Bandits](https://arxiv.org/abs/2111.02071). <i>In the Workshop on Ecological Theory of Reinforcement Learning at NeurIPS</i>, 2021.
 
-* Filipo Studzinski Perotto, Sattar Vakili, Pratik Gajane, Yaser Faghan and Mathieu Bourgais. <i>[Gambler Bandits and the Regret of Being Ruined](https://dl.acm.org/doi/10.5555/3463952.3464194).</i> In the proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS), 2021.
+* Filipo Studzinski Perotto, Sattar Vakili, Pratik Gajane, Yaser Faghan and Mathieu Bourgais. [Gambler Bandits and the Regret of Being Ruined](https://dl.acm.org/doi/10.5555/3463952.3464194). <i>In the proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS)</i> , 2021.
 
-* Ronald Ortner, Pratik Gajane and Peter Auer. <i>[Variational Regret Bounds for Reinforcement Learning](https://proceedings.mlr.press/v115/ortner20a.html).</i> In the proceedings of the 35th Conference on Uncertainty in Artificial Intelligence (UAI), 2019. ([Poster](/files/UAI_2019_poster.pdf)).
+* Ronald Ortner, Pratik Gajane and Peter Auer. [Variational Regret Bounds for Reinforcement Learning](https://proceedings.mlr.press/v115/ortner20a.html). <i>In the proceedings of the 35th Conference on Uncertainty in Artificial Intelligence (UAI)</i>, 2019. ([Poster](/files/UAI_2019_poster.pdf)).
 
-*  Peter Auer, Yifang Chen, Pratik Gajane, Chung-Wei Lee, Haipeng Luo, Ronald Ortner and Chen-Yu Wei. <i>[Achieving Optimal Dynamic Regret for Non-stationary Bandits without Prior Information](https://proceedings.mlr.press/v99/auer19b.html).</i> In the proceedings of the 32nd Annual Conference on Learning Theory (COLT), 2019.
+*  Peter Auer, Yifang Chen, Pratik Gajane, Chung-Wei Lee, Haipeng Luo, Ronald Ortner and Chen-Yu Wei. [Achieving Optimal Dynamic Regret for Non-stationary Bandits without Prior Information](https://proceedings.mlr.press/v99/auer19b.html). <i>In the proceedings of the 32nd Annual Conference on Learning Theory (COLT)</i>, 2019.
 
-* Peter Auer, Pratik Gajane and Ronald Ortner. <i>[Adaptively Tracking the Best Bandit Arm with an Unknown Number of Distribution Changes](https://proceedings.mlr.press/v99/auer19a.html).</i> In the proceedings of the 32nd Annual Conference on Learning Theory (COLT), 2019.
+* Peter Auer, Pratik Gajane and Ronald Ortner. [Adaptively Tracking the Best Bandit Arm with an Unknown Number of Distribution Changes](https://proceedings.mlr.press/v99/auer19a.html). <i>In the proceedings of the 32nd Annual Conference on Learning Theory (COLT)</i>, 2019.
  
-* Pratik Gajane, Ronald Ortner and Peter Auer. <i>[A Sliding-Window Approach for Reinforcement Learning in MDPs with Arbitrarily Changing Rewards and Transitions](https://drive.google.com/file/d/1FHAgRpUPcO4YBjg3meK47d3VZozIwIx5/view).</i> In the 2nd workshop for Lifelong Learning: A Reinforcement Learning Approach (LLARLA), 2018 (<span style="color:gold">won the best paper award</span>). ([Poster](/files/LLARLA_2018_poster.pdf)).
+* Pratik Gajane, Ronald Ortner and Peter Auer. [A Sliding-Window Approach for Reinforcement Learning in MDPs with Arbitrarily Changing Rewards and Transitions](https://drive.google.com/file/d/1FHAgRpUPcO4YBjg3meK47d3VZozIwIx5/view). <i>In the 2nd workshop for Lifelong Learning: A Reinforcement Learning Approach (LLARLA)</i>, 2018 (<span style="color:gold">won the best paper award</span>). ([Poster](/files/LLARLA_2018_poster.pdf)).
 
 * Pratik Gajane and Mykola Pechenizkiy. <i>[On Formalizing Fairness in Prediction with Machine Learning](https://www.fatml.org/media/documents/formalizing_fairness_in_prediction_with_ml.pdf).</i> In the 5th Workshop on Fairness, Accountability, and Transparency in Machine Learning (FAT/ML), 2018. ([Poster](/files/FATML_2018_poster.pdf)).
 

@@ -44,11 +44,11 @@ Bandits](https://arxiv.org/abs/2111.02071). In <i> the Workshop on Ecological Th
 
 * Carolin Lawrence, Pratik Gajane and Stefan Riezler. [Counterfactual Learning for Machine Translation: Degeneracies and Solutions](https://www.cl.uni-heidelberg.de/~riezler/publications/papers/NIPS2017.pdf). In <i> the workshop for Causal Inference and Machine Learning for Intelligent Decision Making</i>, 2017. ([Poster](/files/17NIPS_WITWN.pdf)).
 
-* Pratik Gajane, Emilie Kaufmann and Tanguy Urvoy. <i>[Corrupt bandits](https://ewrl.files.wordpress.com/2016/11/ewrl13-2016-submission_04.pdf).</i> In the 13th European Workshop on Reinforcement Learning (EWRL), 2016. ([Poster](/files/EWRL_2016_poster.pdf)).
+* Pratik Gajane, Emilie Kaufmann and Tanguy Urvoy. [Corrupt bandits](https://ewrl.files.wordpress.com/2016/11/ewrl13-2016-submission_04.pdf). In <i>the 13th European Workshop on Reinforcement Learning (EWRL)</i>, 2016. ([Poster](/files/EWRL_2016_poster.pdf)).
 
-* Pratik Gajane, Tanguy Urvoy and Fabrice Clerot. <i>[A Relative Exponential Weighing Algorithm for Adversarial Utility-based Dueling Bandits](https://proceedings.mlr.press/v37/gajane15).</i> In the proceedings of the 32nd International Conference on Machine Learning (ICML), 2015.
+* Pratik Gajane, Tanguy Urvoy and Fabrice Clerot. [A Relative Exponential Weighing Algorithm for Adversarial Utility-based Dueling Bandits](https://proceedings.mlr.press/v37/gajane15). In <i>the proceedings of the 32nd International Conference on Machine Learning (ICML)</i>, 2015.
 
-* Pratik Gajane and Tanguy Urvoy.  <i>[Utility-based Dueling Bandits as a Partial Monitoring Game](https://arxiv.org/abs/1507.02750).</i> In the 12th European Workshop on Reinforcement Learning (EWRL), 2015.
+* Pratik Gajane and Tanguy Urvoy. [Utility-based Dueling Bandits as a Partial Monitoring Game](https://arxiv.org/abs/1507.02750). In <i>the 12th European Workshop on Reinforcement Learning (EWRL)</i>, 2015.
 
 <font size = 5> PhD Thesis </font>
 Here's my [PhD thesis](/files/PhD-thesis-Pratik-Gajane.pdf).

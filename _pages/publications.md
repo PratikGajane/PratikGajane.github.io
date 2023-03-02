@@ -8,8 +8,11 @@ author_profile: true
 <font size = 5> Preprints </font>
 * Rosa van Tuijn, Tianqin Lu, Emma Driesse, Koen Franken, Pratik Gajane and Emilia Barakova. [WeHeart: A Personalized Recommendation Device for Physical Activity Encouragement and  Preventing "Cold Start" in Cardiac Rehabilitation](https://github.com/PratikGajane/PratikGajane.github.io/blob/bfab1d2bf11d4387e4b9cc3c9ad5cab4ebfa85f4/files/WeHeart.pdf). 
 * Jiong Li and Pratik Gajane. [Curiosity-driven Exploration in Sparse-reward Multi-agent Reinforcement Learning](https://arxiv.org/abs/2302.10825).
+* Ronald C. van den Broek, Rik Litjens, Tobias Sagis, Luc Siecker, Nina Verbeeke and Pratik Gajane. [Multi-Armed Bandits with Generalized Temporally-Partitioned Rewards](https://arxiv.org/abs/2303.00620).
 * Pratik Gajane, Akrati Saxena, Maryam Tavakol, George Fletcher, Mykola Pechenizkiy. [Survey on Fair Reinforcement Learning: Theory and Practice](https://arxiv.org/abs/2205.10032).
+* Pratik Gajane, Peter Auer and Ronald Ortner. Autonomous Exploration for Navigating in MDPs using Blackbox RL Algorithms.
 * Pratik Gajane, Ronald Ortner, Peter Auer, Csaba Szepesvari. [Autonomous exploration for navigating in non-stationary CMPs](https://arxiv.org/abs/1910.08446v1).
+* Sayantan Bhadra, Pratik Gajane and Balaraman Ravindran. A Rank Correlation Based Method for the Stochastic Budgeted Multi-armed Bandit Problem.
 
 <font size = 5> Publications </font>
 

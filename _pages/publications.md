@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 <font size = 5> Preprints </font>
-* Rosa van Tuijn, Tianqin Lu, Emma Driesse, Koen Franken, Pratik Gajane and Emilia Barakova. [WeHeart: A Personalized Recommendation Device for Physical Activity Encouragement and  Preventing "Cold Start" in Cardiac Rehabilitation](https://github.com/PratikGajane/PratikGajane.github.io/blob/bfab1d2bf11d4387e4b9cc3c9ad5cab4ebfa85f4/files/WeHeart.pdf). 
 * Jiong Li and Pratik Gajane. [Curiosity-driven Exploration in Sparse-reward Multi-agent Reinforcement Learning](https://arxiv.org/abs/2302.10825).
 * Ronald C. van den Broek, Rik Litjens, Tobias Sagis, Luc Siecker, Nina Verbeeke and Pratik Gajane. [Multi-Armed Bandits with Generalized Temporally-Partitioned Rewards](https://arxiv.org/abs/2303.00620).
 * Pratik Gajane, Akrati Saxena, Maryam Tavakol, George Fletcher, Mykola Pechenizkiy. [Survey on Fair Reinforcement Learning: Theory and Practice](https://arxiv.org/abs/2205.10032).
@@ -15,12 +14,14 @@ author_profile: true
 
 <font size = 5> Publications </font>
 
+* Rosa van Tuijn, Tianqin Lu, Emma Driesse, Koen Franken, Pratik Gajane and Emilia Barakova. WeHeart: A Personalized Recommendation Device for Physical Activity Encouragement and  Preventing "Cold Start" in Cardiac Rehabilitation. In <i>the second International Conference on Hybrid Human-Artificial Intelligence</i>, 2023. 
+
 * Pratik Gajane, Peter Auer and Ronald Ortner. Autonomous Exploration for Navigating in MDPs using Blackbox RL Algorithms. In <i>the proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI)</i>, 2023.
 
 *  Pratik Gajane. [Local Differential Privacy for Sequential Decision Making in a Changing
 Environment](https://arxiv.org/abs/2301.00561). In <i> AAAI Privacy-Preserving Artificial Intelligence (PPAI)</i>, 2023.
 
-* Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. [An Empirical Evaluation of Posterior Sampling for Constrained Reinforcement Learning](https://arxiv.org/abs/2209.03596). In <i> the Reinforcement Learning for Real Life Workshop at NeurIPS</i> , 2022.
+* Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. [An Empirical Evaluation of Posterior Sampling for Constrained Reinforcement Learning](https://arxiv.org/abs/2209.03596). In <i> the Reinforcement Learning for Real Life Workshop at NeurIPS</i>, 2022.
 
 * Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. [The Impact of Batch Learning in Stochastic Linear Bandits](https://arxiv.org/abs/2202.06657). In <i> the proceedings of the 22nd International Conference on Data Mining (ICDM)</i>, 2022.
 

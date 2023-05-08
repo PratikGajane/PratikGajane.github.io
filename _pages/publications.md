@@ -18,6 +18,10 @@ author_profile: true
 
 * Pratik Gajane, Peter Auer and Ronald Ortner. Autonomous Exploration for Navigating in MDPs using Blackbox RL Algorithms. In <i>the proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI)</i>, 2023.
 
+* Dennis Collaris, Pratik Gajane, Joost Jorritsma, Jarke J. van Wijk and Mykola Pechenizkiy. LEMON: Alternative
+Sampling for More Faithful Explanation through Local Surrogate Models. In <i>the proceedings of the 21st Symposium on
+Intelligent Data Analysis (IDA)</i>, 2023. 
+
 *  Pratik Gajane. [Local Differential Privacy for Sequential Decision Making in a Changing
 Environment](https://arxiv.org/abs/2301.00561). In <i> AAAI Privacy-Preserving Artificial Intelligence (PPAI)</i>, 2023.
 

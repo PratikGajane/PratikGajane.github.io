@@ -14,7 +14,7 @@ author_profile: true
 
 <font size = 5> Publications </font>
 
-* Rosa van Tuijn, Tianqin Lu, Emma Driesse, Koen Franken, Pratik Gajane and Emilia Barakova. WeHeart: A Personalized Recommendation Device for Physical Activity Encouragement and  Preventing "Cold Start" in Cardiac Rehabilitation. In <i>the second International Conference on Hybrid Human-Artificial Intelligence</i>, 2023. 
+* Rosa van Tuijn, Tianqin Lu, Emma Driesse, Koen Franken, Pratik Gajane and Emilia Barakova. WeHeart: A Personalized Recommendation Device for Physical Activity Encouragement and  Preventing "Cold Start" in Cardiac Rehabilitation. In <i>the proceedings of the 19th International Conference on Human-Computer Interaction (INTERACT)</i>, 2023.
 
 * Pratik Gajane, Peter Auer and Ronald Ortner. Autonomous Exploration for Navigating in MDPs using Blackbox RL Algorithms. In <i>the proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI)</i>, 2023.
 
@@ -22,6 +22,8 @@ author_profile: true
 Sampling for More Faithful Explanation through Local Surrogate Models. In <i>the proceedings of the 21st Symposium on
 Intelligent Data Analysis (IDA)</i>, 2023. 
 
+* Rosa van Tuijn, Tianqin Lu, Emma Driesse, Koen Franken, Pratik Gajane and Emilia Barakova. WeHeart: A Personalized Recommendation Device for Physical Activity Encouragement and  Preventing "Cold Start" in Cardiac Rehabilitation (Extended Abstract). In <i>the second International Conference on Hybrid Human-Artificial Intelligence</i>, 2023.
+* 
 *  Pratik Gajane. [Local Differential Privacy for Sequential Decision Making in a Changing
 Environment](https://arxiv.org/abs/2301.00561). In <i> AAAI Privacy-Preserving Artificial Intelligence (PPAI)</i>, 2023.
 

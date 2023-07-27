@@ -19,9 +19,8 @@ author_profile: true
 
 * Pratik Gajane, Peter Auer and Ronald Ortner. Autonomous Exploration for Navigating in MDPs using Blackbox RL Algorithms. In <i>the proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI)</i>, 2023.
 
-* Dennis Collaris, Pratik Gajane, Joost Jorritsma, Jarke J. van Wijk and Mykola Pechenizkiy. LEMON: Alternative
-Sampling for More Faithful Explanation through Local Surrogate Models. In <i>the proceedings of the 21st Symposium on
-Intelligent Data Analysis (IDA)</i>, 2023. 
+* Dennis Collaris, Pratik Gajane, Joost Jorritsma, Jarke J. van Wijk and Mykola Pechenizkiy. [LEMON: Alternative
+Sampling for More Faithful Explanation through Local Surrogate Models](https://link.springer.com/chapter/10.1007/978-3-031-30047-9_7). In <i>the proceedings of the 21st Symposium on Intelligent Data Analysis (IDA)</i>, 2023. (<span style="color:gold">Runner-up Frontier prize/span>)
 
 * Rosa van Tuijn, Tianqin Lu, Emma Driesse, Koen Franken, Pratik Gajane and Emilia Barakova. WeHeart: A Personalized Recommendation Device for Physical Activity Encouragement and  Preventing "Cold Start" in Cardiac Rehabilitation (Extended Abstract). In <i>the second International Conference on Hybrid Human-Artificial Intelligence</i>, 2023.
  
@@ -30,7 +29,7 @@ Environment](https://arxiv.org/abs/2301.00561). In <i> AAAI Privacy-Preserving A
 
 * Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. [An Empirical Evaluation of Posterior Sampling for Constrained Reinforcement Learning](https://arxiv.org/abs/2209.03596). In <i> the Reinforcement Learning for Real Life Workshop at NeurIPS</i>, 2022.
 
-* Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. [The Impact of Batch Learning in Stochastic Linear Bandits](https://arxiv.org/abs/2202.06657). In <i> the proceedings of the 22nd International Conference on Data Mining (ICDM)</i>, 2022.
+* Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. [The Impact of Batch Learning in Stochastic Linear Bandits](https://ieeexplore.ieee.org/document/10027682). In <i> the proceedings of the 22nd International Conference on Data Mining (ICDM)</i>, 2022.
 
 * Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. [The Impact of Batch Learning in Stochastic
 Bandits](https://arxiv.org/abs/2111.02071). In <i> the Workshop on Ecological Theory of Reinforcement Learning at NeurIPS</i>, 2021.

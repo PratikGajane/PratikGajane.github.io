@@ -42,7 +42,7 @@ Bandits](https://arxiv.org/abs/2111.02071). In <i> the Workshop on Ecological Th
 
 * Peter Auer, Pratik Gajane and Ronald Ortner. [Adaptively Tracking the Best Bandit Arm with an Unknown Number of Distribution Changes](https://proceedings.mlr.press/v99/auer19a.html). In <i> the proceedings of the 32nd Annual Conference on Learning Theory (COLT)</i>, 2019.
  
-* Pratik Gajane, Ronald Ortner and Peter Auer. [A Sliding-Window Approach for Reinforcement Learning in MDPs with Arbitrarily Changing Rewards and Transitions](https://drive.google.com/file/d/1FHAgRpUPcO4YBjg3meK47d3VZozIwIx5/view). In <i> the 2nd workshop for Lifelong Learning: A Reinforcement Learning Approach (LLARLA)</i>, 2018 (<span style="color:gold">won the best paper award</span>). ([Poster](/files/LLARLA_2018_poster.pdf)).
+* Pratik Gajane, Ronald Ortner and Peter Auer. [A Sliding-Window Approach for Reinforcement Learning in MDPs with Arbitrarily Changing Rewards and Transitions](https://drive.google.com/file/d/1FHAgRpUPcO4YBjg3meK47d3VZozIwIx5/view). In <i> the 2nd workshop for Lifelong Learning: A Reinforcement Learning Approach (LLARLA)</i>, 2018 (<span style="color:firebrick">won the best paper award</span>). ([Poster](/files/LLARLA_2018_poster.pdf)).
 
 * Pratik Gajane and Mykola Pechenizkiy. [On Formalizing Fairness in Prediction with Machine Learning](https://www.fatml.org/media/documents/formalizing_fairness_in_prediction_with_ml.pdf). In <i> the 5th Workshop on Fairness, Accountability, and Transparency in Machine Learning (FAT/ML)</i>, 2018. ([Poster](/files/FATML_2018_poster.pdf)).
 

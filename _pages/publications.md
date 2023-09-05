@@ -15,7 +15,7 @@ author_profile: true
   
 * Ronald C. van den Broek, Rik Litjens, Tobias Sagis, Luc Siecker, Nina Verbeeke and Pratik Gajane. Multi-Armed Bandits with Generalized Temporally-Partitioned Rewards. In <i>the 16th European Workshop on Reinforcement Learning (EWRL)</i>, 2023.
 
-* Rosa van Tuijn, Tianqin Lu, Emma Driesse, Koen Franken, Pratik Gajane and Emilia Barakova. [WeHeart: A Personalized Recommendation Device for Physical Activity Encouragement and  Preventing "Cold Start" in Cardiac Rehabilitation](https://pratikgajane.github.io/files/WeHeart.pdf). In <i>the proceedings of the 19th International Conference on Human-Computer Interaction (INTERACT)</i>, 2023.
+* Rosa van Tuijn, Tianqin Lu, Emma Driesse, Koen Franken, Pratik Gajane and Emilia Barakova. [WeHeart: A Personalized Recommendation Device for Physical Activity Encouragement and  Preventing "Cold Start" in Cardiac Rehabilitation](https://link.springer.com/chapter/10.1007/978-3-031-42286-7_11). In <i>the proceedings of the 19th International Conference on Human-Computer Interaction (INTERACT)</i>, 2023.
 
 * Pratik Gajane, Peter Auer and Ronald Ortner. [Autonomous Exploration for Navigating in MDPs using Blackbox RL Algorithms](https://www.ijcai.org/proceedings/2023/413). In <i>the proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI)</i>, 2023.
 

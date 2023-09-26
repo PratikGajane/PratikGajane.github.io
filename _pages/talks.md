@@ -4,7 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-* [Presentation](/files/MetaExplore_presentation.pdf) at IJCAI 2023, Macau. <span style="color:lightgray"> Aug 23, 2023 </span>
+* [Presentation](/files/MetaExploreIJCAIpresentation.pdf) at IJCAI 2023, Macau. <span style="color:lightgray"> Aug 23, 2023 </span>
 * [Invited talk](/files/DeepMind_Sept_2019_talk.pdf) at DeepMind, Google London. <span style="color:lightgray"> Sept 4, 2019 </span>
 * [Invited talk](/files/IIT_Madras_talk_2018.pdf) at IIT Madras, Department of Computer Science and Engineering. <span style="color:lightgray"> Dec 28, 2018 </span>
 * [Presentation](/files/FATML_2018_talk.pdf) at the 5th Workshop on Fairness, Accountability, and Transparency in Machine Learning (FAT/ML). <span style="color:lightgray"> July 15, 2018 </span>

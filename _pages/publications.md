@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <font size = 5> Preprints </font>
-* Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. Provably Efficient Exploration in Constrained Reinforcement Learning: Posterior Sampling Is All You Need.
+* Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. [Provably Efficient Exploration in Constrained Reinforcement Learning: Posterior Sampling Is All You Need](https://arxiv.org/abs/2309.15737).
 * Pratik Gajane, Akrati Saxena, Maryam Tavakol, George Fletcher, Mykola Pechenizkiy. [Survey on Fair Reinforcement Learning: Theory and Practice](https://arxiv.org/abs/2205.10032).
 * Pratik Gajane, Ronald Ortner, Peter Auer, Csaba Szepesvari. [Autonomous exploration for navigating in non-stationary CMPs](https://arxiv.org/abs/1910.08446v1).
 * Sayantan Bhadra, Pratik Gajane and Balaraman Ravindran. A Rank Correlation Based Method for the Stochastic Budgeted Multi-armed Bandit Problem.

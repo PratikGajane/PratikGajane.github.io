@@ -16,7 +16,7 @@ My [Erdös number](https://www.oakland.edu/enp/) is 3 thanks to Peter Auer (-> P
 
 My research interests span across sequential decision-making and machine learning with ethical considerations such as fairness and privacy.
 
-In sequential decision-making, I seek to understand how an intelligent agent “learns” from its interactions with the environment. Generally, I am interested in devising machine learning algorithms with strong mathematical foundations which can work with incomplete forms of feedback often encountered in real-life scenarios. 
+In sequential decision-making, I seek to understand how an intelligent agent “learns” from its interactions with the environment. Generally, I am interested in devising machine learning algorithms with strong mathematical foundations which can work with non-standard forms of feedback often encountered in real-life scenarios. 
 
 Secondly, I am also interested in interdisciplinary research with the aim of incorporating human aspects like fairness and privacy in machine learning.
 

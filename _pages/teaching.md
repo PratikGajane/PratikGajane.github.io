@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+* I hold the UTQ(University Teaching Qualification) i.e. BKO(Basiskwalificatie Onderwijs) certificate. This certificate is regarded as a proof of the competence of teaching in academic settings in the Netherlands.
   
 | Course Name                                       | Level      |  Role                      | #Students |  University                   |
 |  :---:                                            |  :---:     | :---:                      | :---:     |  :---:                        |

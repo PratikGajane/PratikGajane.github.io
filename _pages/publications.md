@@ -12,9 +12,11 @@ author_profile: true
 * Sayantan Bhadra, Pratik Gajane and Balaraman Ravindran. A Rank Correlation Based Method for the Stochastic Budgeted Multi-armed Bandit Problem.
 
 <font size = 5> Publications </font>
+* Ronald C. van den Broek, Rik Litjens, Tobias Sagis, Luc Siecker, Nina Verbeeke and Pratik Gajane. Multi-Armed Bandits with Generalized Temporally-Partitioned Rewards. In <i>the proceedings of the Symposium on Intelligent Data Analysis (IDA)</i>, 2024.
+
 * Jiong Li and Pratik Gajane. Curiosity-driven Exploration in Sparse-reward Multi-agent Reinforcement Learning. In <i>the 16th European Workshop on Reinforcement Learning (EWRL)</i>, 2023.
   
-* Ronald C. van den Broek, Rik Litjens, Tobias Sagis, Luc Siecker, Nina Verbeeke and Pratik Gajane. Multi-Armed Bandits with Generalized Temporally-Partitioned Rewards. In <i>the 16th European Workshop on Reinforcement Learning (EWRL)</i>, 2023.
+* Ronald C. van den Broek, Rik Litjens, Tobias Sagis, Luc Siecker, Nina Verbeeke and Pratik Gajane.  Generalizing distribution of partial rewards for multi-armed bandits with temporally-partitioned rewards. In <i>the 16th European Workshop on Reinforcement Learning (EWRL)</i>, 2023.
 
 * Rosa van Tuijn, Tianqin Lu, Emma Driesse, Koen Franken, Pratik Gajane and Emilia Barakova. [WeHeart: A Personalized Recommendation Device for Physical Activity Encouragement and  Preventing "Cold Start" in Cardiac Rehabilitation](https://link.springer.com/chapter/10.1007/978-3-031-42286-7_11). In <i>the proceedings of the 19th International Conference on Human-Computer Interaction (INTERACT)</i>, 2023.
 

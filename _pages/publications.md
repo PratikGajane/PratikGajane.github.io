@@ -13,7 +13,7 @@ author_profile: true
 <font size = 5> Publications </font>
 * Ronald C. van den Broek, Rik Litjens, Tobias Sagis, Luc Siecker, Nina Verbeeke and Pratik Gajane. Multi-Armed Bandits with Generalized Temporally-Partitioned Rewards. In <i>the proceedings of the Symposium on Intelligent Data Analysis (IDA)</i>, 2024. (To appear soon).
 
-* Jiong Li and Pratik Gajane. [Curiosity-driven Exploration in Sparse-reward Multi-agent Reinforcement Learning](https://arxiv.org/abs/2302.10825). In <i>the 16th European Workshop on Reinforcement Learning (EWRL)</i>, 2023.
+* Jiong Li and Pratik Gajane. [Curiosity-driven Exploration in Sparse-reward Multi-agent Reinforcement Learning](https://arxiv.org/pdf/2302.10825.pdf). In <i>the 16th European Workshop on Reinforcement Learning (EWRL)</i>, 2023.
   
 * Ronald C. van den Broek, Rik Litjens, Tobias Sagis, Luc Siecker, Nina Verbeeke and Pratik Gajane.  Generalizing distribution of partial rewards for multi-armed bandits with temporally-partitioned rewards. In <i>the 16th European Workshop on Reinforcement Learning (EWRL)</i>, 2023.
 

@@ -24,7 +24,7 @@ author_profile: true
 * Dennis Collaris, Pratik Gajane, Joost Jorritsma, Jarke J. van Wijk and Mykola Pechenizkiy. [LEMON: Alternative
 Sampling for More Faithful Explanation through Local Surrogate Models](https://link.springer.com/chapter/10.1007/978-3-031-30047-9_7). In <i>the proceedings of the 21st Symposium on Intelligent Data Analysis (IDA)</i>, 2023 (<span style="color:firebrick">Runner-up Frontier prize</span>). [Python package](https://github.com/iamDecode/lemon).
 
-* Rosa van Tuijn, Tianqin Lu, Emma Driesse, Koen Franken, Pratik Gajane and Emilia Barakova. WeHeart: A Personalized Recommendation Device for Physical Activity Encouragement and  Preventing "Cold Start" in Cardiac Rehabilitation (Extended Abstract). In <i>the second International Conference on Hybrid Human-Artificial Intelligence</i>, 2023.
+* Rosa van Tuijn, Tianqin Lu, Emma Driesse, Koen Franken, Pratik Gajane and Emilia Barakova. [WeHeart: A Personalized Recommendation Device for Physical Activity Encouragement and  Preventing "Cold Start" in Cardiac Rehabilitation (Extended Abstract)](https://ebooks.iospress.nl/volumearticle/63370). In <i>the second International Conference on Hybrid Human-Artificial Intelligence</i>, 2023.
  
 *  Pratik Gajane. [Local Differential Privacy for Sequential Decision Making in a Changing
 Environment](https://arxiv.org/abs/2301.00561). In <i> AAAI Privacy-Preserving Artificial Intelligence (PPAI)</i>, 2023.

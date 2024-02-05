@@ -9,12 +9,11 @@ author_profile: true
 * Danil Provodin, Pratik Gajane, Mykola Pechenizkiy and Maurits Kaptein. [Provably Efficient Exploration in Constrained Reinforcement Learning: Posterior Sampling Is All You Need](https://arxiv.org/abs/2309.15737).
 * Pratik Gajane, Akrati Saxena, Maryam Tavakol, George Fletcher, Mykola Pechenizkiy. [Survey on Fair Reinforcement Learning: Theory and Practice](https://arxiv.org/abs/2205.10032).
 * Pratik Gajane, Ronald Ortner, Peter Auer, Csaba Szepesvari. [Autonomous exploration for navigating in non-stationary CMPs](https://arxiv.org/abs/1910.08446v1).
-* Sayantan Bhadra, Pratik Gajane and Balaraman Ravindran. A Rank Correlation Based Method for the Stochastic Budgeted Multi-armed Bandit Problem.
 
 <font size = 5> Publications </font>
-* Ronald C. van den Broek, Rik Litjens, Tobias Sagis, Luc Siecker, Nina Verbeeke and Pratik Gajane. Multi-Armed Bandits with Generalized Temporally-Partitioned Rewards. In <i>the proceedings of the Symposium on Intelligent Data Analysis (IDA)</i>, 2024.
+* Ronald C. van den Broek, Rik Litjens, Tobias Sagis, Luc Siecker, Nina Verbeeke and Pratik Gajane. Multi-Armed Bandits with Generalized Temporally-Partitioned Rewards. In <i>the proceedings of the Symposium on Intelligent Data Analysis (IDA)</i>, 2024. (Appearing soon)
 
-* Jiong Li and Pratik Gajane. Curiosity-driven Exploration in Sparse-reward Multi-agent Reinforcement Learning. In <i>the 16th European Workshop on Reinforcement Learning (EWRL)</i>, 2023.
+* Jiong Li and Pratik Gajane. [Curiosity-driven Exploration in Sparse-reward Multi-agent Reinforcement Learning](https://arxiv.org/abs/2302.10825). In <i>the 16th European Workshop on Reinforcement Learning (EWRL)</i>, 2023.
   
 * Ronald C. van den Broek, Rik Litjens, Tobias Sagis, Luc Siecker, Nina Verbeeke and Pratik Gajane.  Generalizing distribution of partial rewards for multi-armed bandits with temporally-partitioned rewards. In <i>the 16th European Workshop on Reinforcement Learning (EWRL)</i>, 2023.
 

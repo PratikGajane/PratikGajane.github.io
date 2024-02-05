@@ -15,7 +15,7 @@ author_profile: true
 
 * Jiong Li and Pratik Gajane. [Curiosity-driven Exploration in Sparse-reward Multi-agent Reinforcement Learning](https://arxiv.org/pdf/2302.10825.pdf). In <i>the 16th European Workshop on Reinforcement Learning (EWRL)</i>, 2023.
   
-* Ronald C. van den Broek, Rik Litjens, Tobias Sagis, Luc Siecker, Nina Verbeeke and Pratik Gajane.  Generalizing distribution of partial rewards for multi-armed bandits with temporally-partitioned rewards. In <i>the 16th European Workshop on Reinforcement Learning (EWRL)</i>, 2023.
+* Ronald C. van den Broek, Rik Litjens, Tobias Sagis, Luc Siecker, Nina Verbeeke and Pratik Gajane.  [Generalizing distribution of partial rewards for multi-armed bandits with temporally-partitioned rewards](https://arxiv.org/pdf/2211.06883.pdf). In <i>the 16th European Workshop on Reinforcement Learning (EWRL)</i>, 2023.
 
 * Rosa van Tuijn, Tianqin Lu, Emma Driesse, Koen Franken, Pratik Gajane and Emilia Barakova. [WeHeart: A Personalized Recommendation Device for Physical Activity Encouragement and  Preventing "Cold Start" in Cardiac Rehabilitation](https://link.springer.com/chapter/10.1007/978-3-031-42286-7_11). In <i>the proceedings of the 19th International Conference on Human-Computer Interaction (INTERACT)</i>, 2023.
 

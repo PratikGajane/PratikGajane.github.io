@@ -21,7 +21,7 @@ In sequential decision-making, I seek to understand how an intelligent agent “
 Secondly, I am also interested in interdisciplinary research with the aim of incorporating human aspects like fairness and privacy in machine learning.
 
 <font size = 6> News </font>
-* A paper accepeted at the Symposium on Intelligent Data Analysis (IDA 2024). Under my guidance, Ronald C. van den Broek, Rik Litjens, Tobias Sagis, Luc Siecker, and Nina Verbeeke collaborated to produce this paper as a culmination of their course project <span style="color:lightgray"> (Jan 2023)</span>.
+* A paper accepeted at the Symposium on Intelligent Data Analysis (IDA 2024). Under my guidance, Ronald C. van den Broek, Rik Litjens, Tobias Sagis, Luc Siecker, and Nina Verbeeke collaborated to produce this paper as a culmination of their course project <span style="color:lightgray"> (Jan 2024)</span>.
 * I have been awarded the UTQ (University Teaching Qualification) i.e. BKO (Basiskwalificatie Onderwijs) certificate. <span style="color:lightgray"> (Oct 2023)</span>.
 * I am going to co-deliver a tutorial on fair reinforcement learning at [the 15th Asian Conference on Machine Learning](https://www.acml-conf.org/2023/index.html) <span style="color:lightgray"> (Sep 2023)</span>.
 * I presented our work about autonomous exploration in reinforcement learning at the 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023.  See the slides for the presentation [here](https://pratikgajane.github.io/files/MetaExploreIJCAIpresentation.pdf) <span style="color:lightgray"> (Aug 2023)</span>.

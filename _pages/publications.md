@@ -11,7 +11,9 @@ author_profile: true
 * Pratik Gajane, Ronald Ortner, Peter Auer, Csaba Szepesvari. [Autonomous exploration for navigating in non-stationary CMPs](https://arxiv.org/abs/1910.08446v1).
 
 <font size = 5> Publications </font>
-* Ronald C. van den Broek, Rik Litjens, Tobias Sagis, Luc Siecker, Nina Verbeeke and Pratik Gajane. Multi-Armed Bandits with Generalized Temporally-Partitioned Rewards. In <i>the proceedings of the Symposium on Intelligent Data Analysis (IDA)</i>, 2024. (To appear soon).
+* Pratik Gajane. [Adversarial Multi-dueling Bandits](https://arxiv.org/abs/2406.12475). In <i> the Workshop on Models of Human Feedback for AI Alignment </i> at ICML 2024.
+
+* Ronald C. van den Broek, Rik Litjens, Tobias Sagis, Luc Siecker, Nina Verbeeke and Pratik Gajane. [Multi-Armed Bandits with Generalized Temporally-Partitioned Rewards](https://link.springer.com/chapter/10.1007/978-3-031-58547-0_4). In <i>the proceedings of the Symposium on Intelligent Data Analysis (IDA)</i>, 2024.
 
 * Jiong Li and Pratik Gajane. [Curiosity-driven Exploration in Sparse-reward Multi-agent Reinforcement Learning](https://arxiv.org/pdf/2302.10825.pdf). In <i>the 16th European Workshop on Reinforcement Learning (EWRL)</i>, 2023.
   

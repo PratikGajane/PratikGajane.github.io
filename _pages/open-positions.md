@@ -56,8 +56,3 @@ author_profile: true
 
 </div>
 </details>
-
-<hr>
-
-<h2>Past Positions</h2>
-<p><em>Information about previous PhD and postdoc positions will be added here to showcase the research group's track record.</em></p>

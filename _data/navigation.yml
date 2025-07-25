@@ -11,7 +11,10 @@ main:
   
   - title: "Supervision"
     url: /supervision/
-        
+
+  - title: "Open Positions"
+    url: /open-positions/
+    
   - title: "CV"
     url: /cv/
     

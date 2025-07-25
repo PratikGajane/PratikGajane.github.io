@@ -20,6 +20,7 @@ In sequential decision-making, I seek to understand how an intelligent agent “
 
 Secondly, I am also interested in interdisciplinary research with the aim of incorporating human aspects like fairness and privacy in machine learning.
 
+I welcome inquiries from motivated students interested in joining my research group as PhD candidates or interns.
 <font size = 6> News </font>
 * **[NEW PhD Position Available]** I am seeking a PhD student for a fully funded position on "Fair and Privacy-Preserving Reinforcement Learning for Healthcare Applications" starting November 2025. The position is supported by the French National Research Agency (ANR) and open to international candidates. Application deadline: September 8, 2025. See full details on the [Open Positions](/open-positions/) page. <span style="color:lightgray"> (July 2025)</span>.
 * **[Workshop on Responsible Healthcare using Machine Learning (RHCML 2025)]** I'm co-organizing the Workshop on Responsible Healthcare using Machine Learning (RHCML 2025) at ECML PKDD in Porto, Portugal, which will take place on September 19, 2025. **Extended submission deadline: June 26, 2025**. For more details, please see [https://rhcml.github.io/](https://rhcml.github.io/). <span style="color:lightgray"> (June 2025)</span>.

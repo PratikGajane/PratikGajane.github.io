@@ -6,9 +6,12 @@ author_profile: true
 ---
 
 <h2>Current Opportunities</h2>
+<p> There are no open positions available at the moment. However, I am always interested in discussing potential collaborations with motivated researchers and students. Feel free to reach out if you'd like to explore future opportunities.</p>
+
+<h2>Past Opportunities</h2>
 
 <details>
-<summary><strong>PhD Position: Fair and Privacy-Preserving Reinforcement Learning for Healthcare Applications</strong> - Application Deadline: September 8, 2025 - Currently Open</summary>
+<summary><strong>PhD Position: Fair and Privacy-Preserving Reinforcement Learning for Healthcare Applications</strong> - Application Deadline: September 8, 2025</summary>
 
 <div style="margin-top: 15px;">
 

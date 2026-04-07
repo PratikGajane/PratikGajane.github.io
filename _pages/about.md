@@ -24,6 +24,7 @@ Secondly, I am also interested in interdisciplinary research with the aim of inc
 I welcome inquiries from motivated students interested in joining my research group as PhD candidates or interns.
 <font size = 6> News </font>
 * I will co-supervise a CIFRE PhD thesis with researchers from Orange Labs ([Lina María Rojas Barahona](https://scholar.google.com/citations?user=n42dh0cAAAAJ&hl=en) and [Raphaël Féraud](https://scholar.google.com/citations?user=4YwuLUMAAAAJ&hl=fr)) on the topic of Multi-Agent Reinforcement Learning (MRL) for improving small language models (LMs). The research aims to address the limitations of LMs in reasoning, planning, and grounding, with a focus on applying MRL to complex tasks such as Orange's technical use-cases. <span style="color:lightgray"> (Apr 2026)</span>.
+* Haiyang Lu and I presented a poster at [StatLearn 2026](https://statlearn.sciencesconf.org/) on reinforcement learning under joint differential privacy, leveraging randomized value functions, exploration, and noise injection with provable regret guarantees. <span style="color:lightgray"> (Apr 2026)</span>.
 * I collaborated with S. Akash and Jawar Singh from the Indian Institute of Technology (Patna) on multi-dueling bandits, developing algorithms with formal regret guarantees.
 <strong>In Condorcet setting, </strong> our algorithm achieves $O(\sqrt{KT})$ pseudo-regret against adversarial preferences and the 
 instance-optimal $O\!\left(\sum_{i \neq a^\star} \frac{\log T}{\Delta_i}\right)$  pseudo-regret under stochastic preferences, both simultaneously and without 

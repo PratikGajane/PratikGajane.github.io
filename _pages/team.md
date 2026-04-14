@@ -15,7 +15,7 @@ author_profile: true
 - **Aicha Gahlas**  
   *Intern* (Since Apr 2026)  
   Research Focus: Extracting treatment feedback and comparative evaluations from French clinical reports. Developing reinforcement learning-based treatment recommendation systems with temporal relation extraction.  
-  Validation: Ongoing collaboration with CHU Orléans or simulated patient scenarios.
+  Validation: Ongoing collaboration with CHU Orléans and simulated patient scenarios.
 
 ---
 

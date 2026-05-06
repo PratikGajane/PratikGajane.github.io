@@ -11,6 +11,10 @@ author_profile: true
 * Pratik Gajane, Ronald Ortner, Peter Auer, Csaba Szepesvari. [Autonomous exploration for navigating in non-stationary CMPs](https://arxiv.org/abs/1910.08446v1).
 
 <font size = 5> Publications </font>
+* S Akash, Pratik Gajane, Jawar Singh. Best-of-Both-Worlds Multi-Dueling Bandits: Unified Algorithms for Stochastic and Adversarial Preferences under Condorcet and Borda Objectives. In <i>the proceedings of the  reinforcement learning (RLC)</i>, 2026.
+
+* Haiyang Lu, Pratik Gajane. Differentially Private Reinforcement Learning using Randomized Value Functions. In <i>Statlearn</i> 2026.  
+
 * Pratik Gajane. [Adversarial Multi-dueling Bandits](https://arxiv.org/abs/2406.12475). In <i> the Workshop on Models of Human Feedback for AI Alignment </i> at ICML 2024.
 
 * Ronald C. van den Broek, Rik Litjens, Tobias Sagis, Luc Siecker, Nina Verbeeke and Pratik Gajane. [Multi-Armed Bandits with Generalized Temporally-Partitioned Rewards](https://link.springer.com/chapter/10.1007/978-3-031-58547-0_4). In <i>the proceedings of the Symposium on Intelligent Data Analysis (IDA)</i>, 2024.

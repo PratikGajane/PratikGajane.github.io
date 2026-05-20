@@ -6,7 +6,13 @@ author_profile: true
 ---
 
 <h2>Current Opportunities</h2>
-<p> There are no open positions available at the moment. However, I am always interested in discussing potential collaborations with motivated researchers and students. Feel free to reach out if you'd like to explore future opportunities.</p>
+<details>
+<summary><strong>CIFRE PhD Position: Multi-agent Reinforcement Learning for Improving Small Language Models</strong> </summary>
+
+<div style="margin-top: 15px;">
+ For more details about the project and application process, please see: https://orange.jobs/fr/fr/job/CTS-2026-51532?idOrigine=502
+</div>
+</details>
 
 <h2>Past Opportunities</h2>
 

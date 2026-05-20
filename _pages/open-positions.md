@@ -10,7 +10,8 @@ author_profile: true
 <summary><strong>CIFRE PhD Position: Multi-agent Reinforcement Learning for Improving Small Language Models</strong> </summary>
 
 <div style="margin-top: 15px;">
- For more details about the project and application process, please see: https://orange.jobs/fr/fr/job/CTS-2026-51532?idOrigine=502
+ For more details about the project and application process, please see: 
+ [orange.jobs/fr/fr/job/CTS-2026-51532?idOrigine=502]( https://orange.jobs/fr/fr/job/CTS-2026-51532?idOrigine=502).
 </div>
 </details>
 

@@ -10,19 +10,19 @@ author_profile: true
 **PhD Students**
 
 - **Haiyang Lu**  
-  *PhD Student* (since February 2026)  
+  (since February 2026)  
   Research Topic: Fairness-aware and privacy-preserving reinforcement learning.  
   Collaboration: [Prof. Dr. Guillaume Beraud](https://scholar.google.com/citations?user=rDA-xnYAAAAJ) (CHU Orléans).
 
-- **[Name]**  
-  *Athir Hamadieh* (CIFRE, joining October 2026)  
+- ***Athir Hamadieh**  
+  (CIFRE, joining October 2026)  
   Research Topic: Multi-Agent Reinforcement Learning for Improving Small Language Models.  
   Collaboration: Lina María Rojas Barahona and Raphaël Féraud (Orange Labs).
 
 **Interns**
 
 - **Aicha Gahlas**  
-  *Intern* (since Apr 2026)  
+  (since Apr 2026)  
   Research Focus: Extracting treatment feedback and comparative evaluations from French clinical reports. Developing reinforcement learning-based treatment recommendation systems with temporal relation extraction.  
   Validation: Ongoing collaboration with CHU Orléans and simulated patient scenarios.
 

@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 <h2>Current Opportunities</h2>
+
+
+<h2>Past Opportunities</h2>
+
 <details>
 <summary><strong>CIFRE PhD Position: Multi-agent Reinforcement Learning for Improving Small Language Models</strong> </summary>
  <div style="margin-top: 15px;">
@@ -13,8 +17,6 @@ author_profile: true
  <a href="https://orange.jobs/fr/fr/job/CTS-2026-51532?idOrigine=502">orange.jobs/fr/fr/job/CTS-2026-51532?idOrigine=502</a>.
  </div>
 </details>
-
-<h2>Past Opportunities</h2>
 
 <details>
 <summary><strong>PhD Position: Fair and Privacy-Preserving Reinforcement Learning for Healthcare Applications</strong> - Application Deadline: September 8, 2025</summary>

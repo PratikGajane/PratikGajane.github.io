@@ -14,7 +14,7 @@ author_profile: true
   Research Topic: Fairness-aware and privacy-preserving reinforcement learning.  
   Collaboration: [Prof. Dr. Guillaume Beraud](https://scholar.google.com/citations?user=rDA-xnYAAAAJ) (CHU Orléans).
 
-- ***Athir Hamadieh**  
+- **Athir Hamadieh**  
   (CIFRE, joining October 2026)  
   Research Topic: Multi-Agent Reinforcement Learning for Improving Small Language Models.  
   Collaboration: Lina María Rojas Barahona and Raphaël Féraud (Orange Labs).

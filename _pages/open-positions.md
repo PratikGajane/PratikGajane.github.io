@@ -6,6 +6,55 @@ author_profile: true
 ---
 
 <h2>Current Opportunities</h2>
+<details>
+<summary><strong>PhD Position: Privacy-Preserving Adaptive Reinforcement Learning for Personalized Healthcare (ANR TAILOR Project)</strong></summary>
+
+<div style="margin-top: 15px;">
+
+<p>I am pleased to invite applications for a fully funded PhD position under my supervision at the University of Orléans, France, as part of the TAILOR project, funded by the French National Research Agency (ANR). The position is open to international candidates, and English will be the primary language for all research activities. Applications will be reviewed on a rolling basis.</p>
+
+<h3>Research Focus</h3>
+<p>In this PhD project, we will develop new approaches for privacy-preserving reinforcement learning with a particular focus on adaptive privacy guarantees for personalized healthcare applications. The main idea is to move beyond fixed privacy budgets and design temporal privacy mechanisms that better balance patient-data protection and learning utility over the course of treatment. The research combines theoretical foundations in differential privacy and reinforcement learning with empirical validation on healthcare datasets, in collaboration with the University Hospital of Orléans (CHU Orléans). </p>
+
+<h3>Collaboration Opportunities</h3>
+<p>The student will have opportunities to collaborate with leading institutions in France, including INSA Centre Val de Loire, CHU Orléans, and other French collaborators, as well as international partners in the USA, the Netherlands and India. This network provides access to clinical datasets, direct collaboration with researchers and clinicians, and opportunities for international research visits, subject to research alignment and timing.</p>
+
+<h3>Expected Student Characteristics</h3>
+<p><strong>Education:</strong> Master's degree (or equivalent) in Computer Science, Artificial Intelligence, Machine Learning, Data Science, Applied Mathematics, or a closely related field. Candidates with strong quantitative backgrounds in other disciplines (e.g., Statistics, Engineering) will also be considered if they demonstrate relevant experience in machine learning.</p>
+
+<p><strong>Technical Foundation:</strong> Strong background in machine learning and reinforcement learning with solid programming skills. Mathematical proficiency in probability, statistics, and optimization. Prior exposure to or research experience in differential privacy will be an advantage. Prior exposure to healthcare applications is beneficial but not a prerequisite.</p>
+
+<p><strong>Research Aptitude:</strong> Demonstrated ability to conduct independent research. Strong analytical and problem-solving skills.</p>
+
+<p><strong>Professional Skills:</strong> Excellent communication abilities. Self-motivated with ability to work both independently and as part of research teams.</p>
+
+<p><strong>Language Requirements:</strong> C1 level proficiency (or equivalent) in English is essential. French language skills are not mandatory.</p>
+
+<h3>Application Process</h3>
+<p>To apply, please send an email to <a href="mailto:pratik.gajane@gmail.com">pratik.gajane@gmail.com</a> with the subject line: <strong>[PhD Application 2026b] - Your Full Name</strong>. Please combine all required documents into a single PDF file with the same name as your email subject line (maximum file size: 20MB) and include the following:</p>
+
+<ul>
+<li>Detailed CV highlighting relevant experience (including a list of publications, if applicable).</li>
+<li>Motivation letter (max 2 A4 pages) explaining how your qualifications, skills, and experiences relate to the research topic. Please also describe specific areas within the PhD subject that interest you most and demonstrate your preparedness for these areas.</li>
+<li>Degree certificates and academic transcripts for both BSc and MSc degrees (if the final MSc certificate or transcripts are not yet available, submit provisional transcripts initially; the final versions must be submitted later).</li>
+<li>Contact details for 2-3 referees who can provide recommendation letters.</li>
+<li>English language certificate (TOEFL, IELTS, or equivalent for non-native speakers). If not available, please describe your English language background, such as degrees from English-medium institutions, published papers in English, or equivalent demonstrated proficiency.</li>
+</ul>
+
+<h3>Expected Start Date</h3>
+<p>October 2026 (some flexibility possible based on candidate availability)</p>
+
+<h3>Stipend and Benefits</h3>
+<p>This PhD position is fully funded by the French National Research Agency (ANR). The PhD candidate will receive a gross monthly stipend of approximately €2,200, with annual increases as per French PhD salary regulations. The precise stipend amount, depending upon standard French PhD salary regulations, will be specified in the formal offer. The position includes typical French PhD benefits and social security coverage, comprehensive career mentorship, and full funding for research-related travel including conference presentations and other activities directly relevant to the research project.</p>
+
+<h3>Place of Work</h3>
+<p>The Laboratoire d'Informatique Fondamentale d'Orléans (LIFO) at the University of Orléans offers a supportive research environment with experienced faculty and good facilities for PhD students. LIFO members regularly lead and contribute to French and international research projects (full list: <a href="https://www.univ-orleans.fr/lifo/projets">https://www.univ-orleans.fr/lifo/projets</a>). Orléans is a thriving city with a vibrant student community, reasonable living costs, with the added benefit of easy access to Paris (1 hour by train, 1.5 hours by car), providing an excellent base for both academic work and quality of life.</p>
+
+<h3>Contact</h3>
+<p>Candidates interested in discussing the position and research opportunities are welcome to email <a href="mailto:pratik.gajane@gmail.com">pratik.gajane@gmail.com</a> with their CV and a brief summary of their background and research interests to arrange an online meeting.</p>
+
+</div>
+</details>
 
 
 <h2>Past Opportunities</h2>

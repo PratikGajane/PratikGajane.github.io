@@ -14,7 +14,7 @@ author_profile: true
 <p>I am pleased to invite applications for a fully funded PhD position under my supervision at the University of Orléans, France, as part of the TAILOR project, funded by the French National Research Agency (ANR). The position is open to international candidates, and English will be the primary language for all research activities. Applications will be reviewed on a rolling basis.</p>
 
 <h3>Research Focus</h3>
-<p>In this PhD project, we will develop new approaches for privacy-preserving reinforcement learning with a particular focus on adaptive privacy guarantees for personalized healthcare applications. The main idea is to move beyond fixed privacy budgets and design temporal privacy mechanisms that better balance patient-data protection and learning utility over the course of treatment. The research combines theoretical foundations in differential privacy and reinforcement learning with empirical validation on healthcare datasets, in collaboration with the University Hospital of Orléans (CHU Orléans). </p>
+<p>In this PhD thesis, we will develop new approaches for privacy-preserving reinforcement learning with a particular focus on adaptive privacy guarantees for personalized healthcare applications. The main idea is to move beyond fixed privacy budgets and design temporal, adaptive privacy mechanisms that respond to non-stationarity in both patient conditions and treatment protocols, better balancing patient-data protection and learning utility over the course of treatment. This involves formalizing temporal differential privacy, characterizing regret-privacy trade-offs, and designing adaptive algorithms with provable guarantees that allocate privacy budget dynamically as conditions change. The PhD student will contribute to this theoretical formalization and algorithm design, working closely with the coordinator and project collaborators, while empirical validation on clinical data (led separately within the TAILOR project) will inform and be informed by this theoretical work.</p>
 
 <h3>Collaboration Opportunities</h3>
 <p>The student will have opportunities to collaborate with leading institutions in France, including INSA Centre Val de Loire, CHU Orléans, and other French collaborators, as well as international partners in the USA, the Netherlands and India. This network provides access to clinical datasets, direct collaboration with researchers and clinicians, and opportunities for international research visits, subject to research alignment and timing.</p>
@@ -22,7 +22,7 @@ author_profile: true
 <h3>Expected Student Characteristics</h3>
 <p><strong>Education:</strong> Master's degree (or equivalent) in Computer Science, Artificial Intelligence, Machine Learning, Data Science, Applied Mathematics, or a closely related field. Candidates with strong quantitative backgrounds in other disciplines (e.g., Statistics, Engineering) will also be considered if they demonstrate relevant experience in machine learning.</p>
 
-<p><strong>Technical Foundation:</strong> Strong background in machine learning and reinforcement learning with solid programming skills. Mathematical proficiency in probability, statistics, and optimization. Prior exposure to or research experience in differential privacy will be an advantage. Prior exposure to healthcare applications is beneficial but not a prerequisite.</p>
+<p><strong>Technical Foundation:</strong> Strong background in machine learning and reinforcement learning with solid programming skills. Strong mathematical foundation in probability, statistics, and optimization, including familiarity with concentration inequalities and information-theoretic methods, as these underpin much of the project's theoretical work. Prior exposure to or research experience in differential privacy will be an advantage. Prior exposure to healthcare applications is beneficial but not a prerequisite.</p>
 
 <p><strong>Research Aptitude:</strong> Demonstrated ability to conduct independent research. Strong analytical and problem-solving skills.</p>
 
@@ -42,7 +42,7 @@ author_profile: true
 </ul>
 
 <h3>Expected Start Date</h3>
-<p>October 2026 (some flexibility possible based on candidate availability)</p>
+<p>Between October and December 2026 (depending on candidate availability and completion of university administrative procedures)</p>
 
 <h3>Stipend and Benefits</h3>
 <p>This PhD position is fully funded by the French National Research Agency (ANR). The PhD candidate will receive a gross monthly stipend of approximately €2,200, with annual increases as per French PhD salary regulations. The precise stipend amount, depending upon standard French PhD salary regulations, will be specified in the formal offer. The position includes typical French PhD benefits and social security coverage, comprehensive career mentorship, and full funding for research-related travel including conference presentations and other activities directly relevant to the research project.</p>

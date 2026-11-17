@@ -18,7 +18,7 @@ author_profile: true
 
 * S Akash, Pratik Gajane, Jawar Singh. Best-of-Both-Worlds Multi-Dueling Bandits: Unified Algorithms for Stochastic and Adversarial Preferences under Condorcet and Borda Objectives. In <i>the proceedings of the Reinforcement Learning conference (RLC)</i>, 2026.
 
-* Haiyang Lu, Pratik Gajane. Differentially Private Reinforcement Learning using Randomized Value Functions. In <i>Statlearn</i> 2026.  
+* Haiyang Lu, Pratik Gajane. Differentially Private Reinforcement Learning using Randomized Value Functions. In <i> International Conference on Statistical Learning (Statlearn)</i> 2026.  
 
 * Pratik Gajane. [Adversarial Multi-dueling Bandits](https://arxiv.org/abs/2406.12475). In <i> the Workshop on Models of Human Feedback for AI Alignment </i> at ICML 2024.
 

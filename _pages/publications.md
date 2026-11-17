@@ -12,6 +12,8 @@ author_profile: true
 
 <font size = 5> Publications </font>
 
+* Nitish Nagesh, Elahe Khatibi, Thomas Dean Hughes, Mahdi Bagheri, Pratik Gajane, Amir M. Rahmani. Graph-of-Thoughts for LLM Causal Discovery with a Fairness-Pathway Case Study. In <i>Representation Learning and Pattern Discovery for Bioinformatics and Biomedicine (RLPD-Bio) workshop, IEEE BIBM 2026 </i>, 2026.
+
 * Nitish Nagesh, Elahe Khatibi, Thomas Dean Hughes, Mahdi Bagheri, Pratik Gajane, Amir M. Rahmani. Evaluating Causal Discovery Algorithms for Path-Specific Fairness and Utility in Healthcare. In <i>American Medical Informatics Association (AMIA) Annual Symposium </i>, 2026.
 
 * S Akash, Pratik Gajane, Jawar Singh. Best-of-Both-Worlds Multi-Dueling Bandits: Unified Algorithms for Stochastic and Adversarial Preferences under Condorcet and Borda Objectives. In <i>the proceedings of the Reinforcement Learning conference (RLC)</i>, 2026.

@@ -16,6 +16,8 @@ author_profile: true
 
 * Nitish Nagesh, Elahe Khatibi, Thomas Dean Hughes, Mahdi Bagheri, Pratik Gajane, Amir M. Rahmani. Evaluating Causal Discovery Algorithms for Path-Specific Fairness and Utility in Healthcare. In <i>American Medical Informatics Association (AMIA) Annual Symposium </i>, 2026.
 
+* Haiyang Lu, Pratik Gajane,  Shaojie Bai, M. Sadegh Talebi. Randomized Least Squares Value Iteration itself is Joint Differentially Private. In <i>the 19th European Workshop on Reinforcement Learning (EWRL)</i>, 2026. 
+
 * S Akash, Pratik Gajane, Jawar Singh. Best-of-Both-Worlds Multi-Dueling Bandits: Unified Algorithms for Stochastic and Adversarial Preferences under Condorcet and Borda Objectives. In <i>the proceedings of the Reinforcement Learning conference (RLC)</i>, 2026.
 
 * Haiyang Lu, Pratik Gajane. Differentially Private Reinforcement Learning using Randomized Value Functions. In <i> International Conference on Statistical Learning (Statlearn)</i> 2026.  
